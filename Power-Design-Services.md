@@ -1,1 +1,1 @@
-Power Design Services (PDS) is a PCB vendor located in San Jose, CA. PDS supplies Halo with Stage 01 PCB's and other electrical components as of October 09, 2015.
+Power Design Services (PDS) is a PCB vendor located in San Jose, CA. PDS supplies Halo with PCB's and other electrical components to support the Stage 01 device.
