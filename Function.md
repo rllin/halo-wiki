@@ -10,4 +10,4 @@ Mountainview, CA
 # Halo's Contacts:
 [[Colin Davis]]
 Victoria
-Joe Marin (Personal contact of [[Patrick Wolber]])
+Joe Marin (Personal contact of [[Patrick Wolber]] )
