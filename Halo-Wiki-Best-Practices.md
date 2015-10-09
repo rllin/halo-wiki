@@ -1,2 +1,1 @@
-Citing Sources:
-	Web Content:
+Citing Web Content:
