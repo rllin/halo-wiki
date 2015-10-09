@@ -1,0 +1,1 @@
+[Function Engineering](http://www.function.com/) is an engineering design company which "provides mechanical design and engineering for product development." Function handles major mechanical design of Halo's Stage 02 device.
