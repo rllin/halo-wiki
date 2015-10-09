@@ -14,3 +14,4 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
  - Provide internal and external links!
    - Don't be afraid to link to nonexistent internal links you believe should exist!
  - **Bold** the term / phrase if the page is a definition type page!
+ - Check the [Markdown documentation](https://help.github.com/articles/markdown-basics/) for more tricks!
