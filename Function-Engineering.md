@@ -5,9 +5,9 @@ Atlanta, GA
 Taipei, Taiwan
 San Francisco, CA
 Mountainview, CA
-New Orleans, LA
+[[New Orleans, LA]]
 
 # Halo's Contacts:
-Colin Davis
+[[Colin Davis]]
 Victoria
-Joe Marin (Personal contact of [[Patrick Wolber]] )
+Joe Marin (Personal contact of [[Patrick Wolber]])
