@@ -16,7 +16,12 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
  - **Bold** the term / phrase if the page is a definition type page!
  - Check the [Markdown documentation](http://daringfireball.net/projects/markdown/) for more tricks!
  - Include footnotes!<sup id="a1">[1](#f1)</sup>  You'll have to maintain them manually though.
- 
+
+
+```python
+def syntax_highlighting(syntax_string):
+    return syntax_string
+```
  
  ### Footnotes
  <b id="f1">1</b> Footnote content here. [↩](#a1)
