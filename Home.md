@@ -9,3 +9,8 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
    - Is there something you wish you had known when you first joined?
    - Is there something you want in a permanent place rather than in random learning documents strewn all over Google Drive?
  - Don't be afraid to create an incomplete page and ask others to fill in!
+ 
+## To-dos when writing
+ - Provide internal and external links!
+   - Don't be afraid to link to nonexistent internal links you believe should exist!
+ - **Bold** the term / phrase if the page is a definition type page!
