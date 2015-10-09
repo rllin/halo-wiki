@@ -1,0 +1,1 @@
+The **Stage 01 device** consists of a [[Neurostimulator]] and the [[Controller]].  Originally used primarily for [[internal Halo clinical studies]], some are also being used for [[external Halo clinical studies]].
