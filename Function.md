@@ -1,4 +1,4 @@
-[**Function**](http://www.function.com/) (aka "Function Engineering") is an engineering design company which "provides mechanical design and engineering for product development." Function handles major mechanical design of Halo's Stage 02 device.
+[**Function**](http://www.function.com/) (aka "Function Engineering") is an engineering design company which "provides mechanical design and engineering for product development."<b id="f1">1</b> Function handles major mechanical design of Halo's Stage 02 device.
 
 # Locations:
 Atlanta, GA
@@ -11,3 +11,6 @@ Mountainview, CA
 [[Colin Davis]]
 Victoria
 Joe Marin (Personal contact of [[Patrick Wolber]] )
+
+ ### Footnotes
+ <b id="f1">1</b> [Function Engineering Website](http://www.function.com/) "About Us" Page.  [↩](#a1)
