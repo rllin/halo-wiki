@@ -15,3 +15,8 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
    - Don't be afraid to link to nonexistent internal links you believe should exist!
  - **Bold** the term / phrase if the page is a definition type page!
  - Check the [Markdown documentation](http://daringfireball.net/projects/markdown/) for more tricks!
+ - Include footnotes!<sup id="a1">[1](#f1)</sup>  You'll have to maintain them manually though.
+ 
+ 
+ ### Footnotes
+ <b id="f1">1</b> Footnote content here. [↩](#a1)
