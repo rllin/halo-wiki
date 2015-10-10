@@ -22,6 +22,9 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
 def syntax_highlighting(syntax_string):
     return syntax_string
 ```
- 
+
+## Navigation
+Edit navigation [here](sidebar)
+
  ### Footnotes
  <b id="f1">1</b> Footnote content here. [↩](#a1)
