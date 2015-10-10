@@ -24,7 +24,7 @@ def syntax_highlighting(syntax_string):
 ```
 
 ## Navigation
-Edit navigation [here](sidebar)
+Edit navigation [here](_sidebar)
 
  ### Footnotes
  <b id="f1">1</b> Footnote content here. [↩](#a1)
