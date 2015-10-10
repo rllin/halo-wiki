@@ -1,4 +1,1 @@
-#Tres Puntos
-2-Time Tres Puntos Champion 
-10/07
-10/09
+2-Time Tres Puntos Champion (10/07, 10/09)
