@@ -1,1 +1,1 @@
-Former Tres Puntos Darts Champion (10/07-10/08/2015)
+2-Time Tres Puntos Champion (10/07, 10/09)
