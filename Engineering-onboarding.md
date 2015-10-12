@@ -1,3 +1,6 @@
+# Setting up and using SVN
+This section will explain how to download and maintain your svn.
+
 # Electrodes (and possibly controllers and transmitters soon)
 This section will contain everything you need to know about electrodes!
 ## The Observation Log
