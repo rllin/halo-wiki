@@ -3,7 +3,7 @@ This section will explain how to download and maintain your svn.
 
 # Electrodes
 This section will contain everything you need to know about electrodes! (and possibly controllers and transmitters soon)
-## The Observation Log
+## Why The Observation Log
 There are many reasons why we serialize and log the use of our electrodes. It allows us to account for every electrode we've made and also let's us troubleshoot any malfunctions that occur. Find the log below!
 [Serial Log](https://pacific-basin-8674.herokuapp.com/admin/observation/)
 Here are the observations that we record for every electrode:
