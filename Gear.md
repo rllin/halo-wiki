@@ -1,0 +1,1 @@
+[Gearing Guide](http://www.khkgears.co.jp/en/gear_technology/pdf/gear_guide_060817.pdf)
