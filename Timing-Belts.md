@@ -2,7 +2,7 @@
 
 Belt Suppliers
 * [Gates](http://www.gates.com/products/industrial/industrial-belts)
-* Opti-Belt
+* [Optibelt](http://www.optibelt-usa.com/products/in/category/timing-belts.html)
 
 Sprocket Suppliers
 * [Gates](http://www.gates.com/products/industrial/industrial-belts)
