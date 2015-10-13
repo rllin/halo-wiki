@@ -1,0 +1,1 @@
+"Belt pitch is the distance...between two adjacent tooth centers as measured on the pitch line of the belt." [Powergrip GT3 Drive Design Manual]
