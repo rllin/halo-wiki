@@ -1,0 +1,1 @@
+"Belt Pitch Length is the total length (circumference) in millimeters as measured along the pitch line" [PowerGrip GT3 Design Manual]
