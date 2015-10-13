@@ -6,3 +6,4 @@ Belt Suppliers
 
 Sprocket Suppliers
 * [Gates](http://www.gates.com/products/industrial/industrial-belts)
+* [Martin](http://www.martinsprocket.com/products/power-transmission)
