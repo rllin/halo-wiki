@@ -1,4 +1,7 @@
 # Wiki Tutorial
+
+Check the [Markdown documentation](http://daringfireball.net/projects/markdown/) for more tricks!
+
 ## Creating and Editing a Page
 
 1. Hover your mouse over the Tools tab in the upper right hanging off the navbar at the top of your browser
@@ -22,3 +25,15 @@ Find out more about [[Wiki Formatting]] now!
 
 1. Go to [Navigation](_sidebar)
 2. Edit the page to include/remove links
+
+ - Include footnotes!  You'll have to maintain them manually though.
+
+## Footnotes
+```
+Something<sup id="a1">[1](#f1)</sup>
+```
+Something<sup id="a1">[1](#f1)</sup>
+```
+<b id="f1">1</b> Footnote content here. [↩](#a1)
+```
+<b id="f1">1</b> Footnote content here. [↩](#a1)
