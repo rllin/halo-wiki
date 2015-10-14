@@ -6,7 +6,7 @@ Virginia Lopez-Alonso, Binith Cheeran, Miguel Fernandez-del-Olmo
 56 people who have had NIBS (non-invasive brain stimulation) in a previous study
 
 Stim Protocols: (details in paper)
-* A[[tDCS]] (anodal transcranial direct current stimulation)
+* A [[tDCS]] (anodal transcranial direct current stimulation)
 * [[iTBS]] (intermittent theta-burst stimulation))
 * [[PAS]] (paired associative stimulation)
 
