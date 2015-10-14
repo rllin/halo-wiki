@@ -1,5 +1,11 @@
 Bicepomatic is our in-house dynamic bicep contraction apparatus, which is currently in development.
 
+# Muscle Isolation System
+## Bench
+## Curl Table (Preacher Bench)
+## Curl Arm
+## Curl Pad
+
 # Drive System
 ## Driver Motor
 * [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/) - Purchased
