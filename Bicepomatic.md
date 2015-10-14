@@ -15,7 +15,7 @@ Bicepomatic is our in-house dynamic bicep contraction apparatus, which is curren
 * [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/) - Purchased
 
 ### Motor Control
-* Teknic UI on PC --> Developer Board (like arduino or MSP) --> I/O 6 Pin Cable --> I/O Input Connector (integrated in controller) --> Controller (integrated in CPM-MCPV Motor)
+* Computer --> ClearPath-MSP (Program) --> Developer Board (like arduino or MSP) --> I/O 6 Pin Cable --> I/O Input Connector (integrated in controller) --> Controller (integrated in CPM-MCPV Motor)
 
 ### Gearing 
 Target 10:1, range from 7:1 - 15:1
