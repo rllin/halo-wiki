@@ -11,7 +11,7 @@ Find out more about [[Wiki Formatting]] now!
 * Use an H1 header at the top of every page
  * For definition pages, this should be the topic that it defines
 * Use full names, not acronyms, for page titles
-* Use external links at the beginning of definition pages
+* Use additional external links in line at the beginning of definition pages
 * Use back-links when a topic is a subset of another topic
  * Example: [TMS](transcranial magnetic stimulation) is a form of [NIBS](non invasive brain stimulation)
 
