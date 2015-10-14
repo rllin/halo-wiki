@@ -1,1 +1,3 @@
-Find out how to [format](Wiki Formatting) pages!
+# Creating and Editing a Page
+
+Find out about [[Wiki Formatting]]!
