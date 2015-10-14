@@ -77,3 +77,13 @@ You can also use a specific language by specifying it \```python
 ```python
 for i in 1:10
 ```
+
+## Footnotes
+```
+Something special<sup id="a1">[1](#f1)</sup>
+```
+Something special<sup id="a1">[1](#f1)</sup>
+```
+<b id="f1">1</b> Footnote content here. [↩](#a1)
+```
+<b id="f1">1</b> Footnote content here. [↩](#a1)
