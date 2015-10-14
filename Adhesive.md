@@ -18,7 +18,7 @@
 * [[Resinlab]]
 
 # Applications
-* [Bonding to Silicone Rubber](http://www.rubbernews.com/article/20020520/ISSUE/305209977/adhesive-offers-instant-bonding-of-silicone-rubber)
+* [Silicone Rubber, Bonding](http://www.rubbernews.com/article/20020520/ISSUE/305209977/adhesive-offers-instant-bonding-of-silicone-rubber)
  * Primer
  * RTV
  * LSR
