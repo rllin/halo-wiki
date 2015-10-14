@@ -1,4 +1,4 @@
-Bicepomatic is our in-house dynamic bicep contraction apparatus, which is currently in development.
+**Bicepomatic** is our in-house dynamic bicep contraction apparatus, which is currently in development.
 
 # Safety
 ### Hard Stop
