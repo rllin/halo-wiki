@@ -61,7 +61,7 @@
 
 ### Internal Link (different)
 ```
-[Electrodes](electrode)
+[electrodes](electrode)
 ```
 [electrodes](electrode)
 
