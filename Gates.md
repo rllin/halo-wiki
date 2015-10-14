@@ -1,0 +1,1 @@
+[*Gates*](http://www.gates.com/products/industrial/industrial-belts) sells [timing belt]s and [sprocket]s
