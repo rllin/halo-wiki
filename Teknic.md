@@ -4,4 +4,4 @@
 * Victor, NY
 
 # Contacts:
-* Tim Tullar, tom_tullar@teknic.com, 585-784-7454
+* Tom Tullar, tom_tullar@teknic.com, 585-784-7454
