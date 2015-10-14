@@ -1,7 +1,7 @@
 [**Viscosity**](https://en.wikipedia.org/wiki/Viscosity)
 
 # Units
-* Centipoise
+* Centipoise (cps)
 
 
 # Resources
