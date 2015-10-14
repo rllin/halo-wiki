@@ -54,16 +54,16 @@
 
 ### Internal Link (actual)
 ```
-[ [Electrode] ] 
+[ [electrode] ] 
 ```
 *without the spaces in between, won't display here if left out
-[[Electrode]]
+[[electrode]]
 
 ### Internal Link (different)
 ```
-[Electrodes](Electrode)
+[Electrodes](electrode)
 ```
-[Electrodes](Electrode)
+[electrodes](electrode)
 
 ## Code
 Type \``` three times before and after code (note this is not an apostrophe, same key as ~)
