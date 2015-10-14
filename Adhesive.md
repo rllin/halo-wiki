@@ -7,3 +7,4 @@
 # Manufacturers
 * [[Master Bond Inc]]
 * [[PELCO]]
+* [[Resinlab]]
