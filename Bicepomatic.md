@@ -21,7 +21,9 @@ Target 10:1, range from 7:1 - 15:1
 
 ### Sprocket
 * DriveR
+ * P32-5MGT-25-MPB (PN: 7709-2112 ) PowerGrip GT2, 5mm pitch, 25mm wide, Bore 1/2" - 15/16",Steel
 * DriveN
+ * P112-5MGT-25 (PN: 7709-2112 ) PowerGrip GT2, 112 teeth, 5mm pitch, 25mm wide, Bore 1/2 - 2 1/8", Ductile Iron
 
 # Data Collection System
 ### Velocity/Position Gauge
