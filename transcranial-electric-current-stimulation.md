@@ -1,5 +1,5 @@
 # transcranial electric current stimulation
-Transcranial electric current stimulation (tECS) is a form of [NIBS](non invasive brain stimulation) that passes an electric current through the scalp.
+Transcranial electric current stimulation (tECS) is a form of [NIBS](non invasive brain stimulation) that passes a small electric current through the scalp and into the brain.
 
 Types of tECS:
 * [transcranial direct current stimulation (tDCS)](transcranial direct current stimulation)
