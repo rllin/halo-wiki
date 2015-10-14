@@ -1,1 +1,1 @@
-[**Gates**](http://www.gates.com/products/industrial/industrial-belts) sells [[Timing Belt]]s and [[Sprocket]]s
+[**Gates**](http://www.gates.com/products/industrial/industrial-belts) sells [[Timing Belt]] s and [[Sprocket]] s
