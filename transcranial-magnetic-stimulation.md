@@ -1,3 +1,3 @@
-A non invasive method used to stimulate small regions of the brain. A magnetic field generator, or "coil", is placed near the head of the person receiving the treatment. The coil produces small electric currents in the region of the brain just under the coil via [electromagnetic induction](https://en.wikipedia.org/wiki/Electromagnetic_induction).
+Uses a magnetic field generator, or "coil", to produce small electric currents in the region of the brain just under the coil via [electromagnetic induction](https://en.wikipedia.org/wiki/Electromagnetic_induction).
 
-[transcranial magnetic stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
+More: [transcranial magnetic stimulation](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation)
