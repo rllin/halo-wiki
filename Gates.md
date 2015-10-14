@@ -2,6 +2,6 @@
 
 ## Products
 ### Belts
-* [Synchronous Belts] (https://en.wikipedia.org/wiki/Toothed_belt)
+* [Synchronous Belts](https://en.wikipedia.org/wiki/Toothed_belt)
 
 ### Sprockets
