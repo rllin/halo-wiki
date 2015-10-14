@@ -1,4 +1,4 @@
-[*Timing Belts*](https://en.wikipedia.org/wiki/Toothed_belt)
+[**Timing Belts**](https://en.wikipedia.org/wiki/Toothed_belt)
 
 Belt Suppliers
 * [[Gates]]
