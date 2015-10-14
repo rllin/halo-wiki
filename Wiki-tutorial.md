@@ -54,8 +54,9 @@
 
 ### Internal Link (actual)
 ```
-[ [Electrode] ] (without the spaces in between, won't display here if left out)
+[ [Electrode] ] 
 ```
+*without the spaces in between, won't display here if left out
 [[Electrode]]
 
 ### Internal Link (different)
