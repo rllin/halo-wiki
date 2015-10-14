@@ -25,7 +25,7 @@ Use " * " to create a secondary point (note the space before)
 
 ### Internal Link (actual)
 ```
-[ [Electrode] ]
+[ [Electrode] ] (without the spaces, won't display with)
 ```
 [[Electrode]]
 
