@@ -7,6 +7,12 @@
 
 Find out more about [[Wiki Formatting]] now!
 
+# Best Practices
+* Use an H1 header at the top of every page
+ * For definition pages, this should be the thing that is defined
+* Use back-links
+ * Example: [NIBS](non invasive brain stimulation) and [TMS](transcranial magnetic stimulation)
+
 # Editing the side Navigation bar
 
 1. Go to [Navigation](_sidebar)
