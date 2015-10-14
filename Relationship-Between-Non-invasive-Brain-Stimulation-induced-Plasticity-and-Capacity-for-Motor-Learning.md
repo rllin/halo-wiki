@@ -1,5 +1,4 @@
-Journal Club
-9/16/15
+Journal Club 9/16/15 - Aaron Wayne
 
 [Relationship Between Non-invasive Brain Stimulation-induced Plasticity and Capacity for Motor Learning](https://drive.google.com/a/haloneuro.com/file/d/0B_xLXBdz5cEfUmVJb0pJV0lfTEk/view)
 Virginia Lopez-Alonso, Binith Cheeran, Miguel Fernandez-del-Olmo
