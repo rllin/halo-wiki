@@ -1,5 +1,5 @@
 [**Master Bond**] is an adhesive vendor. 
->"Our focus has been on developing the best in epoxies, silicones, polyurethanes, polysulfides, UV cures and other specialty adhesive systems."
+>Our focus has been on developing the best in epoxies, silicones, polyurethanes, polysulfides, UV cures and other specialty adhesive systems.
 
 # Locations
 * Hackensack, NJ
