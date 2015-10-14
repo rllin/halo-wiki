@@ -30,9 +30,9 @@ Find out more about [[Wiki Formatting]] now!
 
 ## Footnotes
 ```
-Something<sup id="a1">[1](#f1)</sup>
+Something special<sup id="a1">[1](#f1)</sup>
 ```
-Something<sup id="a1">[1](#f1)</sup>
+Something special<sup id="a1">[1](#f1)</sup>
 ```
 <b id="f1">1</b> Footnote content here. [↩](#a1)
 ```
