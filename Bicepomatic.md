@@ -18,3 +18,10 @@ Bicepomatic is our in-house dynamic bicep contraction apparatus, which is curren
 ## Sprocket
 ### DriveR
 ### DriveN
+
+# Data Collection System
+## Velocity/Position Gauge
+* Encoder, Integrated in Driver Motor [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/)
+## Force/Torque Gauge
+* Integrated in Driver Motor [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/)
+* Dynamometer affixed to Curl Pad
