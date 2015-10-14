@@ -1,14 +1,25 @@
 # General Formatting
 
+## Headings
+```
+# This is a H1 header
+```
+```
+## This is a H2 header
+```
+```
+### This is a H3 header
+```
+
 ## Bullet Points:
 
-###Use "* " to create a bullet point (note the space after)
+### Use "* " to create a bullet point (note the space after)
 ```
 * This is a bullet point!
 ```
 * This is a bullet point!
 
-###Use " * " to create a secondary point (note the space before)
+### Use " * " to create a secondary point (note the space before)
 ```
 * Primary bullet!
   * This is a secondary bullet point!
@@ -49,3 +60,10 @@
 [Electrodes](Electrode)
 ```
 [Electrodes](Electrode)
+
+## Code
+Type \``` three times before and after code (note this is not an apostrophe, same key as ~)
+You can also use a specific language by specifying it \```python
+```python
+for i in 1:10
+```
