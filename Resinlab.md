@@ -4,4 +4,4 @@
 * [Custom Formulations](http://www.resinlab.com/services/custom-formulations)
 
 ## Contact Information
-* 877-976-7691
+* 877-976-7681
