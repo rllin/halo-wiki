@@ -3,7 +3,7 @@ Journal Club 9/16/15 - Aaron Wayne
 [Relationship Between Non-invasive Brain Stimulation-induced Plasticity and Capacity for Motor Learning](https://drive.google.com/a/haloneuro.com/file/d/0B_xLXBdz5cEfUmVJb0pJV0lfTEk/view)
 Virginia Lopez-Alonso, Binith Cheeran, Miguel Fernandez-del-Olmo
 
-56 people who have had NIBS (non-invasive brain stimulation) in a previous study
+56 people who have had [[NIBS]] (non-invasive brain stimulation) in a previous study
 
 Stim Protocols: (details in paper)
 * A [[tDCS]] (anodal transcranial direct current stimulation)
@@ -34,8 +34,8 @@ Categorizing Subjects: (responder and non-responder)
 * Baseline measures:
  * [[Resting Motor Threshold]] (RMT)
  * [[Active Motor Threshold]] (AMT)
- * 20 Baseline [[Motor Evoked Potential]] MEP’s (Stimulus intensity to elicit a 1 mV (SI1mV) peak-to-peak amplitude
-* [[NIBS]] session (each subject did all three stim protocols in random order at least a week apart)
+ * 20 Baseline [[Motor Evoked Potential]] (MEPs) (Stimulus intensity to elicit a 1 mV (SI1mV) peak-to-peak amplitude
+* NIBS session (each subject did all three stim protocols in random order at least a week apart)
 * After each protocol was delivered, MEP amplitude was measured at 5-min intervals for 60 min
 * TwoStep cluster analysis into responders and non-responders for each stim protocol (people could be R in one protocol and NR in another)
 
