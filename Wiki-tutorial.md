@@ -1,19 +1,34 @@
 # General Formatting
 
 ## Bullet Points:
-Use "* " to create a bullet point (note the space after)
+
+###Use "* " to create a bullet point (note the space after)
 ```
 * This is a bullet point!
 ```
 * This is a bullet point!
 
-Use " * " to create a secondary point (note the space before)
+###Use " * " to create a secondary point (note the space before)
 ```
 * Primary bullet!
   * This is a secondary bullet point!
 ```
 * Primary bullet!
   * This is a secondary bullet point!
+
+## Text Manipulation
+
+### Bold
+```
+**This text is bold**
+```
+**This text is bold**
+
+### Italic
+```
+*This text is italic*
+```
+*This text is italic*
 
 ## Links
 
