@@ -4,27 +4,9 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
 
 ## Quickstart
  - Log in with your Halo account
+ - Check out the [[Wiki tutorial]] to learn about editing
  - Create a page!
    - Is there something only you know the details of?
    - Is there something you wish you had known when you first joined?
    - Is there something you want in a permanent place rather than in random learning documents strewn all over Google Drive?
  - Don't be afraid to create an incomplete page and ask others to fill in!
- 
-## To-dos when writing
- - Provide internal and external links!
-   - Don't be afraid to link to nonexistent internal links you believe should exist!
- - **Bold** the term / phrase if the page is a definition type page!
- - Check the [Markdown documentation](http://daringfireball.net/projects/markdown/) for more tricks!
- - Include footnotes!<sup id="a1">[1](#f1)</sup>  You'll have to maintain them manually though.
-
-
-```python
-def syntax_highlighting(syntax_string):
-    return syntax_string
-```
-
-## Navigation
-Edit navigation [here](_sidebar)
-
- ### Footnotes
- <b id="f1">1</b> Footnote content here. [↩](#a1)
