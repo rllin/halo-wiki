@@ -32,6 +32,7 @@ Target 10:1, range from 7:1 - 15:1
  * P32-5MGT-25-MPB (PN: 7709-2112 ) PowerGrip GT2, 5mm pitch, 25mm wide, Bore 1/2" - 15/16",Steel
 * DriveN
  * P112-5MGT-25 (PN: 7709-2112 ) PowerGrip GT2, 112 teeth, 5mm pitch, 25mm wide, Bore 1/2 - 2 1/8", Ductile Iron
+ * Coupling - Use Clamping Style Coupling, according to [Teknic ClearPath User Manual](https://www.teknic.com/files/downloads/clearpath_user_manual.pdf)
 
 # Data Collection System
 ### Velocity/Position Gauge
