@@ -2,12 +2,12 @@
 
 ## Products
 ### Adhesives
-* [[Electrically Conductive]] (3, silver based adhesives)
+* Electrically Conductive (3, silver based adhesives)
 * [[Methacrylate]]
 * [[Cyanoacrylate]]
 * [[Epoxy]]
 * [[Anaerobic]]
-* [[Thermally Conductive]]
+* Thermally Conductive
 
 
 ## Services
