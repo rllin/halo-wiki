@@ -1,7 +1,7 @@
 Journal Club
 9/16/15
 
-Relationship Between Non-invasive Brain Stimulation-induced Plasticity and Capacity for Motor Learning
+[Relationship Between Non-invasive Brain Stimulation-induced Plasticity and Capacity for Motor Learning](https://drive.google.com/a/haloneuro.com/file/d/0B_xLXBdz5cEfUmVJb0pJV0lfTEk/view)
 Virginia Lopez-Alonso, Binith Cheeran, Miguel Fernandez-del-Olmo
 
 56 people who have had NIBS (non-invasive brain stimulation) in a previous study
