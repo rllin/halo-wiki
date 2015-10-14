@@ -2,4 +2,4 @@
 
 ## Alternative Names, Abbreviations, & Misnomers
 * R&R
-* RNR
+* RNR (Misnomer)
