@@ -13,9 +13,9 @@ Bicepomatic is our in-house dynamic bicep contraction apparatus, which is curren
 ## Gearing 
 Target 10:1, range from 7:1 - 15:1
 * Gearbox
-** [Planetary, 5:1, NEMA 34](http://www.automationtechnologiesinc.com/products-page/cnc-gear-box/51-planetary-gearbox-for-automation-systems-4-thousand-rpm)
+ * [Planetary, 5:1, NEMA 34](http://www.automationtechnologiesinc.com/products-page/cnc-gear-box/51-planetary-gearbox-for-automation-systems-4-thousand-rpm)
 * Sprocket Ratio
-* * Maximum seems to be 3.5:1 since DriveN Sprocket min teeth ~32, and DriveR Sprocket max ~112
+ * Maximum seems to be 3.5:1 since DriveN Sprocket min teeth ~32, and DriveR Sprocket max ~112
 
 ## Belt
 
