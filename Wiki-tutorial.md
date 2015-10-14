@@ -9,7 +9,7 @@ Check the [Markdown documentation](http://daringfireball.net/projects/markdown/)
 3. If creating a new page, name your page the way you'd like to generally reference it on other pages (Tip: typically, it is good practice to use full names, not acronyms, for page titles)
 4. Link away!
 
-Find out more about [[Wiki Formatting]] now!
+Find out about [[Wiki Formatting]] now!
 
 ## Best Practices
 * Use an H1 header at the top of every page
