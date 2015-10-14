@@ -6,9 +6,9 @@ Virginia Lopez-Alonso, Binith Cheeran, Miguel Fernandez-del-Olmo
 56 people who have had NIBS (non-invasive brain stimulation) in a previous study
 
 Stim Protocols: (details in paper)
-* AtDCS (anodal transcranial direct current stimulation)
-* iTBS (intermittent theta-burst stimulation))
-* PAS (paired associative stimulation)
+* A[[tDCS]] (anodal transcranial direct current stimulation)
+* [[iTBS]] (intermittent theta-burst stimulation))
+* [[PAS]] (paired associative stimulation)
 
 3 Tasks: 
 * SRTT: Serial reaction time task
@@ -32,10 +32,10 @@ Stim Protocols: (details in paper)
 
 Categorizing Subjects: (responder and non-responder)
 * Baseline measures:
- * Resting Motor Threshold (RMT)
- * Active Motor Threshold (AMT)
- * 20 Baseline MEP’s (Stimulus intensity to elicit a 1 mV (SI1mV) peak-to-peak amplitude
-* NIBS session (each subject did all three stim protocols in random order at least a week apart)
+ * [[Resting Motor Threshold]] (RMT)
+ * [[Active Motor Threshold]] (AMT)
+ * 20 Baseline [[Motor Evoked Potential]] MEP’s (Stimulus intensity to elicit a 1 mV (SI1mV) peak-to-peak amplitude
+* [[NIBS]] session (each subject did all three stim protocols in random order at least a week apart)
 * After each protocol was delivered, MEP amplitude was measured at 5-min intervals for 60 min
 * TwoStep cluster analysis into responders and non-responders for each stim protocol (people could be R in one protocol and NR in another)
 
