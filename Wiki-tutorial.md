@@ -2,8 +2,15 @@
 
 Check the [Markdown documentation](http://daringfireball.net/projects/markdown/) for more tricks!
 
-## Creating and Editing a Page
+## Quickstart
+ - Log in with your Halo account
+ - Create a page!
+   - Is there something only you know the details of?
+   - Is there something you wish you had known when you first joined?
+   - Is there something you want in a permanent place rather than in random learning documents strewn all over Google Drive?
+ - Don't be afraid to create an incomplete page and ask others to fill in!
 
+## Creating and Editing a Page
 1. Hover your mouse over the Tools tab in the upper right hanging off the navbar at the top of your browser
 2. Choose the create or edit icon
 3. If creating a new page, 
@@ -23,6 +30,5 @@ Find out about [[Wiki Formatting]] now!
  * They will show up in red and can be clicked on to edit
 
 ## Editing the side Navigation bar
-
 1. Go to [Navigation](_sidebar)
 2. Edit the page to include/remove links
