@@ -65,6 +65,12 @@
 ```
 [electrodes](electrode)
 
+## Pictures
+```
+![Alt text](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+```
+![Alt text](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+
 ## Code
 Type \``` three times before and after code (note this is not an apostrophe, same key as ~)
 You can also use a specific language by specifying it \```python
