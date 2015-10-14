@@ -15,6 +15,7 @@ Find out more about [[Wiki Formatting]] now!
 * Use additional external links in line at the beginning of definition pages
 * Use back-links when a topic is a subset of another topic
  * Example: [TMS](transcranial magnetic stimulation) is a form of [NIBS](non invasive brain stimulation)
+* Don't be afraid to link to nonexistent internal links you believe should exist! They will show up in red instead of blue
 
 ## Editing the side Navigation bar
 
