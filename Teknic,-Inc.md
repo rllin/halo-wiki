@@ -9,4 +9,4 @@
 ## Products
 
 ### Halo Used
-[CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/)
+* [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/)
