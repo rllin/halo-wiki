@@ -1,6 +1,6 @@
 # transcranial direct current stimulation
-[Transcranial direct current stimulation](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation) (tDCS) is a form of [noninvasive brain stimulation (NIBS)](noninvasive brain stimulation) which uses a constant, low current through the brain area of interest via electrodes on the scalp. 
+[Transcranial direct current stimulation](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation) (tDCS) is a form of [non invasive brain stimulation (NIBS)](non invasive brain stimulation) which uses a constant, low current through the brain area of interest via electrodes on the scalp. 
 Tests on healthy adults demonstrated that tDCS can increase cognitive performance on a variety of tasks, depending on the area of the brain being stimulated.[1] It has been utilized to enhance language and mathematical ability, attention span, problem solving, memory, and coordination.
-It is by far the most studied form of [NIBS] 
+It is by far the most studied form of [NIBS](non invasive brain stimulation)
 
 ## Mechanism
