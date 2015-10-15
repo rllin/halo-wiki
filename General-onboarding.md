@@ -4,7 +4,7 @@ This section contains information for all new Halo employees. Also make sure to 
 * [[SOCRA and CITI Training]]
 * Create a [[Biosketch]]
 
-## Your First Day
+## Your First Days
 * Bring needed forms of identification for I-9!
 * Coffee Chats with Dan
 * Office Orientation
@@ -20,6 +20,7 @@ This section contains information for all new Halo employees. Also make sure to 
 * [Electrode Testing & Logging](electrode)
 
 ## Other Useful Information
+[Onboarding Readings](onboarding readings)
 [[Expense Reporting]]
 [[Guide to your equity]]
 
