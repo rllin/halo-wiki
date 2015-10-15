@@ -7,4 +7,4 @@
 ### Sprockets
 
 ## [Distributors](http://www.gates.com/where-to-buy/industrial-distributor-locator)
-[Kaman Industrial Technologies](https://ec.kamandirect.com/us/index.jsp)
+[[Kaman Industrial Technologies]]
