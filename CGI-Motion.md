@@ -12,12 +12,16 @@ Right-Angle [[gearbox]]
 In-line [[gearbox]]
 
 ## Pricing
-VPX Series (Inline, Value Grade), 10:1, NEMA 34
- * Price = $650
+VPX Series (Inline, Value Grade)
+ * 10:1
+ * NEMA 34
+ * Price = $650 ($455 after Teknic 30% Discount)
  * Lead = 3 days
 
-RCX Series (Right Angle, Precision Grade), 10:1, NEMA 34
- * Price = $2077
+RCX Series (Right Angle, Precision Grade)
+ * 10:1
+ * NEMA 34
+ * Price = $2077 ($1454 after Teknic 30% Discount)
  * Lead = 3 weeks
 
 ## Contacts
