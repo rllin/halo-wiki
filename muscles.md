@@ -9,10 +9,10 @@ There are 3 types of muscle tissue:
 * Type 1
  * Slow twitch
  * Best at aerobic-based activities
-* Type IIA
+* Type IIa
  * Fast twitch
  * Best at very short anaerobic-based activities
-* Type IIX
+* Type IIx
  * Faster twitch
  * Best at longer anaerobic-based activities
 
