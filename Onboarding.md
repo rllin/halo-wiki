@@ -1,4 +1,4 @@
-# Onboarding
+# New Employee Onboarding
 
 This section contains onboarding information for all new Halo employees. Check out your team's onboarding pages as well!
 [[Clinical onboarding]]
