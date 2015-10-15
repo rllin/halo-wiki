@@ -1,21 +1,23 @@
 # Muscles
 
 ## Composition
-Muscles are bundles of fascicles, which are bundles of myocytes, or muscle cells.
+A muscle is a bundle of fascicles, which is a bundle of myocytes, or muscle cells.
 Muscles are activated at the fascicle level.
 ![muscle anatomy](https://classconnection.s3.amazonaws.com/328/flashcards/782328/jpg/fascicle1317596959739.jpg)
 
-There are 3 categories of muscle:
+There are 3 types of muscle tissue:
 * Type 1
  * Slow twitch
  * Best at aerobic-based activities
 * Type IIA
  * Fast twitch
- * Best at longer anaerobic-based activities
+ * Best at very short anaerobic-based activities
 * Type IIX
  * Faster twitch
- * Best at very short anaerobic-based activities
+ * Best at longer anaerobic-based activities
+
 Each individual muscle is made up of an assortment of these three types.
+![muscle-types](https://image.slidesharecdn.com/chapter014e-100826123605-phpapp02/95/chapter-01-power-points-23-728.jpg?cb=1282826254)
 
 ## Recruitment
 Fascicles are recruited in order of strength. Weaker fascicles are recruited first followed by stronger and stronger fascicles. Because of this recruitment strategy, smaller muscles get used more often and are relatively higher proportionally in Type I muscle.
