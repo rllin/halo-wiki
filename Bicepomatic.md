@@ -13,6 +13,11 @@
 # Drive System
 ### Driver Motor
 * [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/) - Purchased
+ * Depth: 136.5mm
+ * Face Dimensions: 86.87mm^2, [[NEMA]] 34
+ * Peak torque: 6.51 Nm
+ * Peak Speed: 1800 RPM
+ * Resolution: 0.45 degrees
 
 ### Motor Control
 * Computer --> ClearPath-MSP (Program) --> Developer Board (like arduino or MSP) --> I/O 6 Pin Cable --> I/O Input Connector (integrated in controller) --> Controller (integrated in CPM-MCPV Motor)
