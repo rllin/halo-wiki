@@ -26,6 +26,7 @@ Target 10:1, range from 7:1 - 15:1
  * Range from 3.5:1 - 1:3.5 since DriveN Sprocket min teeth ~32, and DriveR Sprocket max ~112
 
 ### Belt
+* [[HTD]] Belt
 
 ### Sprocket
 * DriveR
