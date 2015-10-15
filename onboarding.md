@@ -5,10 +5,12 @@ This section contains onboarding information for all new Halo employees. Check o
 [Engineering onboarding](engineering onboarding)
 
 ## Before You Arrive
+* Offer Letter
+* Proprietary Information and Inventions Agreement Form
 * Bring needed forms of identification for I-9!
 
 ## Your First Days
-
+* I-9 Form
 * Coffee Chats with Dan
 * Office Orientation
 * [tECS](transcranial electric current stimulation) Overview
@@ -28,8 +30,6 @@ This section contains onboarding information for all new Halo employees. Check o
 [Guide to your equity](guide to your equity)
 
 ## Company To-Do's
-* Proprietary Information and Inventions Agreement Form
-* I-9 Form
 * Share Google Drive folders
 * Add to the appropriate mailing lists
 * Send recurring calendar invites
