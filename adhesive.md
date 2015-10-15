@@ -1,12 +1,12 @@
 [**Adhesive**](https://en.wikipedia.org/wiki/Adhesive)
 
 # Typical Parameters
-* [[Viscosity]]
-* [[Pot Life]]
-* [[Shore Hardness]]
-* [[Cure Time]]
-* [[Cure Temperature]]
-* Temperature Range
+* [[viscosity]]
+* [[pot life]]
+* [[shore hardness]]
+* [[cure time]]
+* [[cure temperature]]
+* temperature range
 
 # Vendors
 * [[Master Bond Inc]]
