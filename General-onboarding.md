@@ -10,7 +10,7 @@ This section contains information for all new Halo employees. Also make sure to 
 * Orientation
 * [tECS](transcranial electric current stimulation) Overview
 * [IRB](independent review board) and [Research Review](research review)
-* [Halo-400 MVC-04](Halo-400 MVC-04) the current study
+* [[Halo-400 MVC-04]] the current study
 * [Device Setup & Troubleshooting](device setup and troubleshooting)
 * [Recruiting & Scheduling Subjects](recruiting and scheduling subjects)
 * [IP](intellectual property) Talk
