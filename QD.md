@@ -1,1 +1,1 @@
-Quick Disconnect (Bushing)
+Quick Disconnect ([[bushing]])
