@@ -5,7 +5,7 @@ Virginia Lopez-Alonso, Binith Cheeran, Miguel Fernandez-del-Olmo
 
 Stim Protocols: (details in paper)
 * A [tDCS](transcranial direct current stimulation) anodal transcranial direct current stimulation
-* [iTBS](intermittent theta-burst stimulation) intermittent theta-burst stimulation
+* [iTBS](theta burst stimulation) intermittent theta-burst stimulation
 * [PAS](paired associative stimulation) paired associative stimulation
 
 3 Tasks: 
