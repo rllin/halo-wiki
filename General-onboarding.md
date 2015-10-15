@@ -1,5 +1,5 @@
 # General Onboarding
-This section contains information for all new Halo employees. Also make sure to see the onboarding section for your team!
+This section contains [[Onboarding]] information for all new Halo employees. Also make sure to see the onboarding section for your team!
 ## Before You Arrive
 * [[SOCRA and CITI Training]]
 * Create a [[Biosketch]]
