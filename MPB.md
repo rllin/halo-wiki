@@ -1,1 +1,1 @@
-Minimum [[Plain Bore]]
+Minimum [[plain bore]]
