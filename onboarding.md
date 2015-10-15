@@ -20,6 +20,7 @@ This section contains onboarding information for all new Halo employees. Check o
 * [Data Analysis overview](data analysis)
 * [[Halo FAQs]]
 * [Electrode Testing & Logging](electrode)
+* Get set up on our [SVN](svn)
 
 ## Other Useful Information
 [Onboarding Readings](onboarding readings)
