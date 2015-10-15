@@ -1,2 +1,2 @@
 # maximum voluntary contraction
-A maximum [voluntary contraction](https://en.wikipedia.org/wiki/Muscle_contraction) (MVC) is the maximum force which a human subject can produce in a specific isometric exercise. In practice, it is usually taken as the best or median of multiple efforts in a single test session.
+A maximum [voluntary contraction](https://en.wikipedia.org/wiki/Muscle_contraction) (MVC) is the maximum force which a human subject can produce in a specific [[isometric]] exercise. In practice, it is usually taken as the best or [[median]] of multiple efforts in a single test session.
