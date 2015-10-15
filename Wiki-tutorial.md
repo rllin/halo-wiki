@@ -21,7 +21,9 @@ Find out about [[Wiki Formatting]] now!
 ## Best Practices
 * Use an H1 header at the top of every page
  * For definition pages, this should be the topic that it defines
-* Use full names, not acronyms, for page titles
+* Use full names not acronyms for page titles for clarity
+ * Exceptions to this include titles like [[Halo-400 MVC-04]] but not [[maximum voluntary contraction]]
+* Only capitalize proper nouns
 * Name pages so they are easy to be generally referenced on other pages
 * Use additional external links in line at the beginning of definition pages
 * Use back-links when a topic is a subset of another topic
