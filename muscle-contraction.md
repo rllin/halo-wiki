@@ -1,3 +1,4 @@
+# muscle contraction
 A [muscle contraction](https://en.wikipedia.org/wiki/Muscle_contraction) is the activation of tension-generating sites within muscle fibers.
 
 There are three types:
