@@ -1,16 +1,10 @@
 # General Science Page
 This page contains everything science!
-## Stimulation
+
 [[non invasive brain stimulation]]
 
-## The Brain
-[[brain anatomy]]
-[[brain mechanics]]
+[[brain]]
 
-## Neurons
-[[neuron anatomy]]
-[[neuron mechanics]]
+[[neurons]]
 
-## Muscles
-[[muscle anatomy]]
-[[muscle mechanics]]
+[[muscles]]
