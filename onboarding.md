@@ -1,8 +1,8 @@
 # New Employee Onboarding
 
 This section contains onboarding information for all new Halo employees. Check out your team's onboarding pages as well!
-[[Clinical onboarding]]
-[[Engineering onboarding]]
+[Clinical onboarding](clinical onboarding)
+[Engineering onboarding](engineering onboarding)
 
 ## Before You Arrive
 * Bring needed forms of identification for I-9!
