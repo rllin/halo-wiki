@@ -6,6 +6,7 @@ The protocol has been used in Major Depressive Disorder with stimulation of both
 3 pulses are administered at 50 Hz, every 200 ms. 
 
 ## intermittent theta burst stimulation pattern (iTBS)
-a 2 second train of TBS is repeated every 10 s for a total of 190 s (600 pulses).
+A 2 second train of TBS is repeated every 10 s for a total of 190 s (600 pulses).
 
-## continuous theta burst stimulation paradigm (cTBS), a 40 s train of uninterrupted TBS is given (600 pulses).
+## continuous theta burst stimulation (cTBS)
+A 40 s train of uninterrupted TBS is given (600 pulses).
