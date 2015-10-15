@@ -3,10 +3,14 @@
 [[Gear]]
 
 
-## Gearbox Suppliers
+## Distributers
+* [[Kaman Industrial Technologies]], here called a "reducer"
+* [[McMaster-Carr]]
+* [[MotionUSA]]
+
+## Suppliers
 * [Lin Engineering](http://www.linengineering.com/gearheads/) 408-919-0200
 * [Automation Technologies](http://www.automationtechnologiesinc.com/products-page/cnc-gear-box)
-* [[Kaman Industrial Technologies]], here called a "reducer"
 
 ## Names, Abbreviations, Variants, Misnomers
 * gear box
