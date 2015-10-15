@@ -8,7 +8,7 @@
 * [Automation Technologies](http://www.automationtechnologiesinc.com/products-page/cnc-gear-box)
 * [[Kaman Industrial Technologies]], here called a "reducer"
 
-## Names, Abbreviations, Misnomers
+## Names, Abbreviations, Variants, Misnomers
 * gear box
 * gearhead
 * gear head
