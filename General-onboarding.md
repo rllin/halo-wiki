@@ -22,7 +22,7 @@ This section contains information for all new Halo employees. Also make sure to 
 ## Other Useful Information
 [Onboarding Readings](onboarding readings)
 [Expense Reporting](expense reporting)
-[[Guide to your equity]]
+[Guide to your equity](Halo equity)
 
 ## Company To-Do's
 * Share Google Drive folders
