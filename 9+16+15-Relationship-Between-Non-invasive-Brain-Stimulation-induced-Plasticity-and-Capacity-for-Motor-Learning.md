@@ -30,9 +30,9 @@ Stim Protocols: (details in paper)
 
 Categorizing Subjects: (responder and non-responder)
 * Baseline measures:
- * [[Resting Motor Threshold]] (RMT)
- * [[Active Motor Threshold]] (AMT)
- * 20 Baseline [[Motor Evoked Potential]] (MEPs) (Stimulus intensity to elicit a 1 mV (SI1mV) peak-to-peak amplitude
+ * [Resting Motor Threshold](resting motor threshold) (RMT)
+ * [Active Motor Threshold](active motor threshold) (AMT)
+ * 20 Baseline [Motor Evoked Potential](motor evoked potential) (MEPs) (Stimulus intensity to elicit a 1 mV (SI1mV) peak-to-peak amplitude
 * NIBS session (each subject did all three stim protocols in random order at least a week apart)
 * After each protocol was delivered, MEP amplitude was measured at 5-min intervals for 60 min
 * TwoStep cluster analysis into responders and non-responders for each stim protocol (people could be R in one protocol and NR in another)
