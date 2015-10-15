@@ -2,5 +2,5 @@
 
 [[Home]]
 [[Wiki tutorial]]
-[[Onboarding]]
+[Onboarding](onboarding)
 [[Journal Club]]
