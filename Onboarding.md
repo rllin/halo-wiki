@@ -7,7 +7,6 @@ This section contains onboarding information for all new Halo employees. Check o
 ## Before You Arrive
 * Bring needed forms of identification for I-9!
 
-
 ## Your First Days
 
 * Coffee Chats with Dan
