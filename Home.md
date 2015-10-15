@@ -5,4 +5,4 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
 ## The Basics
 [[Wiki tutorial]]
 [SCIENCE](science home)
-Want to learn more about the science? Check out our [[Journal Club]] articles and summaries!
+Want to do more research? Check out our [[Journal Club]] articles and summaries!
