@@ -1,4 +1,5 @@
 # Halo Research Review
+This section contains information and results for all previous Halo studies!
 
 ## Halo 100
 In the [[Halo 100 research study]] we looked at ...
