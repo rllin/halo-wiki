@@ -1,18 +1,10 @@
-# Running a Study
+# Clinical Onboarding
+Welcome to the Clinical onboarding!
 
-## Prep Work
+## Before You Start
+* [[SOCRA and CITI Training]]
+* Create a [[Biosketch]]
 
-### Socra + CITI Training
-Something
-
-### Biosketch
-Something
-
-## Recruiting & Scheduling
-Something
-
-## Device Setup & Troubleshooting
-Something
-
-## Uploading Data to SVN
-Something
+## Your First Days
+* [Recruiting & Scheduling Subjects](recruiting and scheduling subjects)
+* [[Halo-400 MVC-04 device setup and troubleshooting]]
