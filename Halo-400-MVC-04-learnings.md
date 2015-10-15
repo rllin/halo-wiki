@@ -1,5 +1,5 @@
 # Halo 400 MVC 04 Learnings
-
+This page contains the learnings from [[Halo 400 MVC 04]]
 ## October 14, 2015
 Controller phone showing low battery, plugged in for a few minutes and it started up with 100% battery, not sure why. AC
 Still have to walk around participant in new room configuration for room 1, but still better than before.maybe there is still a better organization. AC
