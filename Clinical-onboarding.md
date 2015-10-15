@@ -1,5 +1,5 @@
 # Clinical Onboarding
-Welcome to the Clinical onboarding!
+Welcome to the Clinical onboarding! This page will contain information specifically for new clinical employees.
 
 ## Before You Start
 * [[SOCRA and CITI Training]]
