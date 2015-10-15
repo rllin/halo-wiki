@@ -7,7 +7,7 @@ This section contains information for all new Halo employees. Also make sure to 
 ## Your First Day
 * Bring needed forms of identification for I-9!
 * Coffee Chats with Dan
-* Orientation
+* Office Orientation
 * [tECS](transcranial electric current stimulation) Overview
 * [IRB](independent review board) and [Research Review](research review)
 * [[Halo-400 MVC-04]] the current study
