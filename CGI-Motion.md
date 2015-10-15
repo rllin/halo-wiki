@@ -15,6 +15,10 @@ In-line [[gearbox]]
 VPX Series (Inline, Value Grade), 10:1, NEMA 34
  * Price = $650
  * Lead = 3 days
+
 RCX Series (Right Angle, Precision Grade), 10:1, NEMA 34
  * Price = $2077
  * Lead = 3 weeks
+
+## Contacts
+* Robert Shouppe, robert.shouppe@cgimotion.com - Very Helpful
