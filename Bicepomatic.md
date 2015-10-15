@@ -52,5 +52,5 @@ Target 10:1, range from 7:1 - 15:1
 * Projected
  * Driver Sprocket - $50
  * Driven Sprocket - $50
- * Synchronous Belt - ?
- * Gearbox - $1000
+ * Synchronous Belt - $90
+ * Gearbox - $455
