@@ -1,0 +1,2 @@
+# eccentric muscle contraction
+A [eccentric muscle contraction](https://en.wikipedia.org/wiki/Muscle_contraction#Eccentric_contraction) is a type of [[muscle contraction]] in which the [[muscle length]] increases during contraction.
