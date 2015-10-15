@@ -31,6 +31,7 @@ This section contains onboarding information for all new Halo employees. Check o
 * Share Google Drive folders
 * Add to the appropriate mailing lists
 * Send recurring calendar invites
-* Set up with Zenefits
 * Add to Slack
 * Hand out elevator keys
+* Set up with Zenefits
+* Register with online paychecks
