@@ -9,4 +9,4 @@ Welcome to the Clinical onboarding! This page will contain additional [[onboardi
 * [Recruiting & Scheduling Subjects](recruiting and scheduling subjects)
 * [[Halo-400 MVC-04 device setup and troubleshooting]]
 * [Informed Consent](informed consent form) overview and practice
-* Study session overview and practice
+* Current study session overview and practice
