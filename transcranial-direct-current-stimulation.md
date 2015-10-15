@@ -7,3 +7,8 @@ It is by far the most studied form of [NIBS](non invasive brain stimulation)
 tDCS increases or decreases the excitability of neurons, depending on the [polarity]() of the current.
 * Anodal (+) increases excitability (anodal electrode over target area)
 * Cathodal (-) decreases excitability (cathodal electrode over target area)
+
+## Effects
+tDCS has been shown to have lasting effects for stimulations longer than 5 minutes.
+tDCS has also been shown to have a negative feedback for stimulations longer than 30 minutes, decreasing the effectiveness of the stimulation.
+A stimulation of 20 minutes will have lasting effects for roughly 1 hour
