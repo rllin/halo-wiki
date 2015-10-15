@@ -1,1 +1,2 @@
-A [resting motor threshold](http://www.emf-portal.de/gl_detail.php?l=e&id=3001) (RMT) is defined as the minimum stimulus intensity that produces a miminal [[motor evoked potential]] (about 50 µV in at least 50% of trials) at rest.
+# resting motor threshold
+An resting motor threshold is the [[motor threshold]] of a muscle when it is not [contracted](muscle contraction)\.
