@@ -1,0 +1,1 @@
+Pot Life refers to the *time for which a substance is viable after it has been activated*.
