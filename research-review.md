@@ -1,0 +1,13 @@
+# Halo Research Review
+
+## Halo 100
+In the [[Halo 100 research study]] we looked at ...
+
+## Halo 200
+In the [[Halo 200 research study]] we looked at ...
+
+## Halo 300
+In the [[Halo 300 research study]] we looked at ...
+
+## Halo 400
+In the [[Halo 400 research study]] we looked at ...
