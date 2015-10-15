@@ -21,4 +21,5 @@ RCX Series (Right Angle, Precision Grade), 10:1, NEMA 34
  * Lead = 3 weeks
 
 ## Contacts
-* Robert Shouppe, robert.shouppe@cgimotion.com - Very Helpful
+* 775-882-3422
+* Robert Shouppe, robert.shouppe@cgimotion.com
