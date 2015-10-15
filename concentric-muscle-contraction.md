@@ -1,1 +1,2 @@
+# concentric muscle contraction
 A [concentric muscle contraction](https://en.wikipedia.org/wiki/Muscle_contraction#Concentric_contraction) is a type of [[muscle contraction]] in which the [[muscle length]] decreases during contraction.
