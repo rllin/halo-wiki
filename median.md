@@ -1,0 +1,2 @@
+# median
+The [median](https://en.wikipedia.org/wiki/Median) is the value of the observation, or [[mean]] of two observations for even numbered data sets, separating the higher half of a data set from the lower half.
