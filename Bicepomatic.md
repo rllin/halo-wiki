@@ -42,3 +42,15 @@ Target 10:1, range from 7:1 - 15:1
 ### Force/Torque Gauge
 * Integrated in Driver Motor [CPM-MCPV-3441P-RLS](https://www.teknic.com/model-info/CPM-MCPV-3441P-RLS/)
 * Dynamometer affixed to Curl Pad
+
+## COST
+* Purchased
+ * Bicep Curl Bench - $375
+ * Driver Motor (Servo) - $500
+ * Power Supply - $199
+ * Motor Accessory Cables (3) - $56
+* Projected
+ * Driver Sprocket - $50
+ * Driven Sprocket - $50
+ * Synchronous Belt - ?
+ * Gearbox - $1000
