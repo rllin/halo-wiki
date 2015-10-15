@@ -16,7 +16,7 @@ There are 3 types of muscle tissue:
  * Faster twitch
  * Best at longer anaerobic-based activities
 
-Each individual muscle is made up of an assortment of these three types.
+Each individual muscle is made up of an assortment of these three types at the myocyte level.
 ![muscle-types](https://image.slidesharecdn.com/chapter014e-100826123605-phpapp02/95/chapter-01-power-points-23-728.jpg?cb=1282826254)
 
 ## Recruitment
