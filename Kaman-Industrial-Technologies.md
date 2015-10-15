@@ -2,4 +2,4 @@
 
 ## Products
 * Belts
-* [Sprocket]
+* [[Sprocket]]
