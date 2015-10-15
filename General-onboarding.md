@@ -1,18 +1,17 @@
 # General Onboarding
 This section contains [[Onboarding]] information for all new Halo employees. Also make sure to see the onboarding section for your team!
 ## Before You Arrive
-* [[SOCRA and CITI Training]]
-* Create a [[Biosketch]]
+* Bring needed forms of identification for I-9!
+
 
 ## Your First Days
-* Bring needed forms of identification for I-9!
+
 * Coffee Chats with Dan
 * Office Orientation
 * [tECS](transcranial electric current stimulation) Overview
 * [IRB](independent review board) and [Research Review](research review)
 * [[Halo-400 MVC-04]] the current study
-* [[Halo-400 MVC-04 device setup and troubleshooting]]
-* [Recruiting & Scheduling Subjects](recruiting and scheduling subjects)
+* [Stage 1 Headset Setup](stage 1 headset setup)
 * [IP](intellectual property) Talk
 * [Branding / Marketing](branding and marketing)
 * [Data Analysis overview](data analysis)
