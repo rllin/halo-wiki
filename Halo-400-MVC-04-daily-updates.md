@@ -4,13 +4,13 @@
 Total Enrollment to Date: 27
 Total Pro Unflagged Subjects to Date: 19
 
-##10/14/2015
+## 10/14/2015
 Subjects Ran Today: 4
 Pro Unflagged Subjects: 3
 
 One subject didn’t seem to try on the calibration so didn’t fatigue at all.
 
-##10/13/2015
+## 10/13/2015
 Subjects Ran Today: 8
 Pro Unflagged Subjects: 5
 
@@ -20,7 +20,7 @@ One subject didn’t seem to be trying.
 The clinical team covered all learnings in this doc so far and have implemented new protocols to hopefully solve the addressable ones starting tomorrow.
 
 
-##10/12/2015
+## 10/12/2015
 Subjects Ran Today: 5
 Pro Unflagged Subjects: 3
 
@@ -30,7 +30,7 @@ One person didn’t seem to be giving a full effort.
 Noticed wires are continually getting tangled so we will be implementing a possible solution of hanging everything on hooks tomorrow morning.
 
 
-##10/9/2015
+## 10/9/2015
 Subjects Ran Today: 7
 Pro Unflagged Subjects: 5
 
@@ -39,7 +39,7 @@ We had two subjects show up too late, we are doing a 15 min late cut off or ther
 The one not pro trial was a battery and reconnection problem with the stimulator. Also subject interrupted stim to go to bathroom. Data not salvageable.
 
 
-##10/8/2015
+## 10/8/2015
 Subjects Ran Today: 3
 Pro Unflagged Subjects: 3
 
