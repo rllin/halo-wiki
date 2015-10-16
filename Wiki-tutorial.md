@@ -16,7 +16,7 @@ Check the [Markdown documentation](http://daringfireball.net/projects/markdown/)
 3. If creating a new page, 
 4. Link away!
 
-Find out about [[Wiki Formatting]] now!
+Find out about [[Wiki formatting]] now!
 
 ## Best Practices
 * Use an H1 header at the top of every page
