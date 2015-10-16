@@ -50,7 +50,7 @@ The [motor](Motor) (Muscle) functions are controlled by a few general areas incl
 
 ## Senses
 
-Each [sense](The Senses) has a dedicated region of the brain which has  
+Each [sense](the senses) has a dedicated region of the brain which has  
 
 ## Emotion
 
