@@ -87,3 +87,5 @@ Something special<sup id="a1">[1](#f1)</sup>
 <b id="f1">1</b> Footnote content here. [↩](#a1)
 ```
 <b id="f1">1</b> Footnote content here. [↩](#a1)
+
+Note, this is a manual footnote, it will not update according to its order on the page.
