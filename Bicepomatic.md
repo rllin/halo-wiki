@@ -55,7 +55,9 @@ Target 10:1, range from 7:1 - 15:1
  * Power Supply - $199
  * Motor Accessory Cables (3) - $56
  * Gearbox - $480
-* Projected
  * Driver Sprocket - $50
  * Driven Sprocket - $50
  * Synchronous Belt - $90
+ * Idler Bearing - $33
+ * Collar (2) - $11
+* Projected
