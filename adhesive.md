@@ -16,6 +16,7 @@
 * [[Master Bond Inc]]
 * [[PELCO]]
 * [[Resinlab]]
+* [[The Glue Factory]]
 
 # Applications
 * [Silicone Rubber, Bonding](http://www.rubbernews.com/article/20020520/ISSUE/305209977/adhesive-offers-instant-bonding-of-silicone-rubber)
