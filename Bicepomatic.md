@@ -54,8 +54,8 @@ Target 10:1, range from 7:1 - 15:1
  * Driver Motor (Servo) - $500
  * Power Supply - $199
  * Motor Accessory Cables (3) - $56
+ * Gearbox - $480
 * Projected
  * Driver Sprocket - $50
  * Driven Sprocket - $50
  * Synchronous Belt - $90
- * Gearbox - $480
