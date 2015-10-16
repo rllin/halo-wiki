@@ -4,8 +4,11 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
 
 **Before starting to edit pages**, please read our [[Wiki tutorial]] and see [[Wiki formatting]] for some tips!
 
-### New to Halo?
+### New to Halo or Wiki?
 [Onboarding](onboarding)
-### More!
-[SCIENCE](science home)
-Want to do more research? Check out our [[Journal Club]] articles and reviews!
+[[Wiki tutorial]]
+
+### Quick Links
+[SCIENCE!](science home)
+[[Halo FAQs]]
+[[Journal Club]] Want to do more research? Check out some articles we've reviewed!
