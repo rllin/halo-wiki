@@ -2,6 +2,6 @@
 
 [[Home]]
 [[Wiki tutorial]]
-[SCIENCE](science home)
+[Science](science home)
 [Onboarding](onboarding)
 [[Journal Club]]
