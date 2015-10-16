@@ -2,7 +2,7 @@ The Visual system is the main way we interpret the world around us and as such i
 
 # The Eye and Transmission to the brain
 
-The Eye is the point from which all visual information enters the brain.  Light enters the eye and is focused onto the retina, a mass of light-activated neurons known as rods and cones.  These neurons provide a constant stream of information that is sent along the optic nerve, across the optic chiasm, and to V1.  As the information hits the optic chiasm, the information is split, with all information coming from the right side of our visual field going to the left V1 while the left side of our visual field is sent to the right V1.  Just like [[motor]] and [[somatosensory]], vision has a contralateral (opposite side) processing set up.
+The Eye is the point from which all visual information enters the brain.  Light enters the eye and is focused onto the retina, a mass of light-activated neurons known as rods and cones.  These neurons provide a constant stream of information that is sent along the optic nerve, across the optic chiasm, and to V1.  As the information hits the optic chiasm, the information is split, with all information coming from the right side of our visual field going to the left V1 while the left side of our visual field is sent to the right V1.  Just like [motor](Motor) and [[somatosensory]], vision has a contralateral (opposite side) processing set up.
 
 ![](http://api.ning.com/files/pEJBOdfoRcfuUEbx9CFfHMC3ar8mz05Rl*6SC8ZI4biAIhGwb-jRSHWM2FOEKPkh*qSjFlZVJrcSJ8WrXEFglW5ITdIBLGOw/Vistopo.gif)
 
