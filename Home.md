@@ -6,7 +6,7 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
 ### New to Wiki?
 [[Wiki tutorial]]
 ### New to Halo?
-[[Onboarding]]
+[Onboarding](onboarding)
 ### More!
 [SCIENCE](science home)
 Use the Navigation bar on the left to start discovering!
