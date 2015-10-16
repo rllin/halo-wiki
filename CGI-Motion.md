@@ -1,5 +1,7 @@
 [CGI Motion](http://www.cgimotion.com/) is a manufacturer of gears, [[gearbox]], and other precision machined parts and subassemblies.
 
+![CGI Logo](http://www.cgimotion.com/wp-content/uploads/2013/03/cgilogo004-220x108.png)
+
 ## Discounts
 * 30% if we are using [[Teknic, Inc]] motors.
 
