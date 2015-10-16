@@ -22,4 +22,4 @@ RCX Series (Right Angle, Precision Grade), 10:1, NEMA 34
 
 ## Contacts
 * 775-882-3422
-* Robert "Bob" Shouppe, robert.shouppe@cgimotion.com, ext. 223
+* Bob Shouppe, robert.shouppe@cgimotion.com, ext. 223
