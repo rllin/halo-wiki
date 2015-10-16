@@ -40,18 +40,22 @@ The 10-20 system is a placement system developed for EEG electrodes, but has bee
 
 Finally some areas simply have names.  These are generally reserved for non-cortex areas such as the Hippocampus or the Amygdala.
 
-<H1>Motor</H1>
+#Brain Functions
+
+The Following are deeper dives into the different functions that the brain accomplishes.
+
+## Motor
 
 The [motor](Motor) (Muscle) functions are controlled by a few general areas including Primary Motor Cortex (aka M1, precentral gyrus, or Brodmann area 4).  
 
-<H1>Senses</H1>
+## Senses
 
 Each [sense](The Senses) has a dedicated region of the brain which has  
 
-<H1>Emotion</H1>
+## Emotion
 
-<H1>Cognition</H1>
+## Cognition
 
-<H2>Memory</H2>
+### Memory
 
-<H2>Attention</H2>
+### Attention
