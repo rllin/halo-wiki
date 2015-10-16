@@ -1,4 +1,4 @@
-The Neuromuscular Junction is how [[motor]] neurons communicate with muscles.  The basic principles are similar to a [[neural synapse]] except that there are different preferred neurotransmitters and the synapse is between a neuron and a muscle instead of neuron - neuron.
+The Neuromuscular Junction is how [motor](Motor) neurons communicate with muscles.  The basic principles are similar to a [[neural synapse]] except that there are different preferred neurotransmitters and the synapse is between a neuron and a muscle instead of neuron - neuron.
 
 ![](http://www.muskingum.edu/~asantas/Biology%20228/Chapter9_muscle_part2_2006_files/slide0031_image010.jpg)
 
