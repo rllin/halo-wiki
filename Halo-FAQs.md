@@ -1,7 +1,7 @@
 # Halo FAQs
 These are questions that you may be presented with when talking about Halo formally with potential partners or informally with friends and family. It is important that as a company we address these questions in a consistent way!
 
-### How does it work? (note: different people ask for different levels of detail here) 
+## How does it work? (note: different people ask for different levels of detail here) 
 Neuropriming technology improves the brain’s response to training, and enable the motor cortex to send stronger and more synchronous signals to muscle groups.
 Halo Sport helps athletes get more out of your workout, leading to accelerated improvements in strength, explosiveness, and skills.
 Next level
@@ -10,10 +10,10 @@ In our sports product, we’re focusing the waveform on the motor cortex so that
 Learning for an athlete is not just about skills. One can also learn to be stronger. This is no news to athletic trainers and coaches. Studies show that the strength is limited neurologically.
 
 
-### How long/often do I have to wear it?
+## How long/often do I have to wear it?
 Halo Sport works best when used at the start of any workout. We've seen the best results when used about 20 minutes per day, 3-5 days per week
 
-### How long will the gains last?
+## How long will the gains last?
 Oh, what you’re asking about is what scientists call “durability of response.” I guess the concern is that you would lose your gains at an accelerated rate. Turns out this has been studied and not the case
 Halo piggy-backs on how your brain already learns, it just makes it more efficient
 You learn it, you keep it. Effects last as long as any other skill you learn
