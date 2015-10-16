@@ -37,3 +37,4 @@ This section contains onboarding information for all new Halo employees. Check o
 * Hand out elevator keys
 * Set up with Zenefits
 * Register with online paychecks
+* Invite to Expensify
