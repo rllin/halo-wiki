@@ -10,7 +10,7 @@ In our sports product, we’re focusing the waveform on the motor cortex so that
 
 Basically, there are two reasons why it works:
 1. You perform better during practice (if you lift more during training, you will get to activate more motor units) or (inclusive) 
-2. You have more “effective / primed” practice (if your cortical circuits responsible for coordinating the correct muscles at the correct time are more tunable, they will tune faster).
+2. You have a more “effective / primed” practice (if your cortical circuits responsible for coordinating the correct muscles at the correct time are more tunable, they will tune faster).
 
 ## Is it safe?
 We engineer everything to medical grade - design controls, risk analysis, quality procedures, electronics testing, mechanical testing.
