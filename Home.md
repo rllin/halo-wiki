@@ -10,5 +10,4 @@ Use the Navigation bar on the left to start discovering!
 [Onboarding](onboarding)
 ### More!
 [SCIENCE](science home)
-
 Want to do more research? Check out our [[Journal Club]] articles and reviews!
