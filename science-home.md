@@ -3,7 +3,7 @@ This page contains everything science!
 
 [[non invasive brain stimulation]]
 
-[[brain]]
+[[The Brain]]
 
 [[neurons]]
 
