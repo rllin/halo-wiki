@@ -32,7 +32,7 @@ The Brodmann areas are named after a German anatomist and are a little antiquate
 
 ## 10-20 system
 
-The [10-20 system](https://en.wikipedia.org/wiki/10-20_system_(EEG)) is a placement system developed for EEG electrodes, but has been adopted to identify some general regions of the cortex.  In general, the letters signify a lobe of the brain and the numbers represent how medial or lateral an aea is, with larger numbers being more lateral.  Even numbers are on the right, odd numbers are on the left, a "z" in place of a number is down the middle. The image below is a simple version, but it can be expanded to have more numbers or more rows with letters signifying in between (CP means between the C or central row and P or parietal row).
+The 10-20 system is a placement system developed for EEG electrodes, but has been adopted to identify some general regions of the cortex.  In general, the letters signify a lobe of the brain and the numbers represent how medial or lateral an aea is, with larger numbers being more lateral.  Even numbers are on the right, odd numbers are on the left, a "z" in place of a number is down the middle. The image below is a simple version, but it can be expanded to have more numbers or more rows with letters signifying in between (CP means between the C or central row and P or parietal row).
 
 ![](http://www.nrsign.com/wp-content/uploads/2014/03/10-20_system_for_EEG.png)
 
