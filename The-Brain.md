@@ -42,7 +42,7 @@ Finally some areas simply have names.  These are generally reserved for non-cort
 
 <H1>Motor</H1>
 
-The [[Motor]] (Muscle) functions are controlled by a few general areas including Primary Motor Cortex (aka M1, precentral gyrus, or Brodmann area 4).  
+The [[motor]] (Muscle) functions are controlled by a few general areas including Primary Motor Cortex (aka M1, precentral gyrus, or Brodmann area 4).  
 
 <H1>Senses</H1>
 
