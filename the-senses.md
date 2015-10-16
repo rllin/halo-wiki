@@ -6,7 +6,7 @@ The [visual cortex](visual) takes up most of the [occipital lobe](the brain) in 
 
 # Auditory (Hearing)
 
-The [auditory cortex](auditory) is located in the temporal lobe and has a tonotopic map to process the sounds around us
+The [auditory cortex](https://en.wikipedia.org/wiki/Auditory_cortex) is located in the temporal lobe and has a tonotopic map to process the sounds around us.
 
 # Somatosensory (Touch)
 
@@ -14,8 +14,8 @@ The [somatosensory cortex](somatosensory) has a similar design as the [motor cor
 
 # Olfaction (Smell)
 
-[[Olfaction]] is chemically based and, therefore, is organized slightly differently than the other senses.
+[Olfaction](https://en.wikipedia.org/wiki/Olfaction) is chemically based and, therefore, is organized slightly differently than the other senses.
 
 # Gustatory (Taste)
 
-The [gustatory cortex](gustatory) is also activated based on the chemical makeup of the food you eat, similar to the [[olfaction]] center.
+The [gustatory cortex](https://en.wikipedia.org/wiki/Gustatory_cortex) is also activated based on the chemical makeup of the food you eat, similar to the [olfaction](https://en.wikipedia.org/wiki/Olfaction) center.
