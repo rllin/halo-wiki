@@ -1,10 +1,10 @@
 # General Science Page
 This page contains everything science!
 
-[[non invasive brain stimulation]]
+[Non Invasive Brain Stimulation](non invasive brain stimulation)
 
 [[The Brain]]
 
 [[neurons]]
 
-[[muscles]]
+[Muscles](muscles)
