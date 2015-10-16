@@ -29,10 +29,10 @@ Halo piggy-backs on how your brain already learns, it just accelerates the learn
 It depends on your starting point, but we’ve seen ~15% gains in leg power and jump height in two weeks with highly trained athletes (~15%). If you’re a beginner, you can experience gains in a single session. If you’re an expert, it can take a couple of weeks.
 
 ## Does everyone get better with this?
-Overall, athletes using Halo get better. **We need more here**
+Overall, athletes using Halo get better. This is also a training supplement similar many others. You can't just put this on, sit on the couch, and get better. Your training staff knows how to improve your performance, we're just using neuroscience to help accelerate that improvement.
 
 ## Is there a possibility that I’ll get worse?
-In almost 1000 subjects tested, we never seen people get worse. 
+In almost 1000 subjects tested, we never seen people get worse. This is also a training supplement similar many others. You can't just put this on, sit on the couch, and get better. Your training staff knows how to improve your performance, we're just using neuroscience to help accelerate that improvement.
 
 ## How do I make sure that the electrodes are in the right place?
 We took care of that for you. Just put on the headphones like any pair of headphones and you’re good to go.
