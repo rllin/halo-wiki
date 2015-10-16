@@ -28,4 +28,4 @@ Once the appropriate muscles are identified and the neurons of those areas are s
 
 ## Neuromuscular Junction
 
-To translate the neuronal signal to a muscle contraction, the neuron must communicate with the muscle through the [[nueromuscular junction]]
+To translate the neuronal signal to a muscle contraction, the neuron must communicate with the muscle through the [[neuromuscular junction]]
