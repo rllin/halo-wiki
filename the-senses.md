@@ -2,7 +2,7 @@ The 5 senses inform our brain of the world around us and as such the brain has a
 
 # Visual (Sight)
 
-The [visual cortex](visual) takes up most of the [occipital lobe](the brain) in the back of the head and has developed a complex hierarchy to interpret the information coming in from the eyes.
+The [visual cortex](visual) takes up most of the [occipital lobe](The Brain) in the back of the head and has developed a complex hierarchy to interpret the information coming in from the eyes.
 
 # Auditory (Hearing)
 
