@@ -36,11 +36,11 @@ The 10-20 system is a placement system developed for EEG electrodes, but has bee
 
 ![](http://www.nrsign.com/wp-content/uploads/2014/03/10-20_system_for_EEG.png)
 
-##General Names
+## General Names
 
 Finally some areas simply have names.  These are generally reserved for non-cortex areas such as the Hippocampus or the Amygdala.
 
-#Brain Functions
+# Brain Functions
 
 The Following are deeper dives into the different functions that the brain accomplishes.
 
@@ -50,9 +50,7 @@ The [motor](Motor) (Muscle) functions are controlled by a few general areas incl
 
 ## Senses
 
-Each [sense](the senses) has a dedicated region of the brain which has 
-
-## Emotion
+The [senses](the senses) each have their own processing systems and regions, each with a some form of mapping where different areas are in control of different aspects of the scent.
 
 ## Cognition
 
