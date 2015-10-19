@@ -10,3 +10,6 @@ Welcome to the Clinical onboarding! This page will contain additional [[onboardi
 * [Informed Consent](informed consent form) overview and practice
 * Current study device setup and troubleshooting
 * Current study session overview and practice
+
+## Reference Documents
+* Many questions can be answered by our [research guide](https://docs.google.com/document/d/1OHHgWv0Lc0dMhrodB9pkJfGodKgRWw_gQqdlPAlGngs/edit)
