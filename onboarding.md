@@ -26,7 +26,6 @@ This section contains onboarding information for all new Halo employees. Check o
 
 ## Other Useful Information
 [Onboarding Readings](onboarding readings)
-[Onboarding Presentation](https://docs.google.com/presentation/d/10KY1PCaYIDuuMwff40asNzz6ShxLwIAMZsAB9JHXaGk/edit#slide=id.gbebe45842_1_244)
 [Expense Reporting](expense reporting)
 [Guide to your equity](guide to your equity)
 
