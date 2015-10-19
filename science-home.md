@@ -5,6 +5,6 @@ This page contains everything science!
 
 [[The Brain]]
 
-[[neurons]]
+[Nerons](neurons)
 
 [Muscles](muscles)
