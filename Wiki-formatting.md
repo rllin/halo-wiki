@@ -71,6 +71,15 @@
 ```
 ![Alt text](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
+## Escape Characters
+If you need to use links with parentheses or want to use characters in text that are used for Markdown formatting (eg: *, [, ], #, etc) use a backslash "\" followed by the character to use it in text
+```
+# this is a header
+\# this is not
+```
+# this is a header
+\# this is not
+
 ## Code
 Type \``` three times before and after code (note this is not an apostrophe, same key as ~)
 You can also use a specific language by specifying it \```python
