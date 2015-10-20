@@ -9,5 +9,6 @@ This is an attempt to decrease the [tribal nature](https://en.wikipedia.org/wiki
 
 ### Quick Links
 [SCIENCE!](science home)
+[Observation Log](observation log)
 [[Halo FAQs]]
 [[Journal Club]] Want to do more research? Check out some articles we've reviewed!
