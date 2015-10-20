@@ -1,4 +1,5 @@
 # Stage 1 Electrodes
+The Stage 1 Electrode is the first installment of nib electrodes in the Halo [[electrode]] collection.
 
 ## Overview and References
 Backplate: [Protopasta Conductive PLA](http://www.proto-pasta.com/pages/conductive-pla)
