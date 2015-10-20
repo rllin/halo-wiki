@@ -21,7 +21,7 @@ This section contains onboarding information for all new Halo employees. Check o
 * [Branding / Marketing](branding and marketing)
 * [Data Analysis overview](data analysis)
 * [[Halo FAQs]]
-* [Electrode Testing & Logging](electrode)
+* [Hardware Observation Log](observation log)
 * Get set up on our [SVN](svn)
 
 ## Other Useful Information
