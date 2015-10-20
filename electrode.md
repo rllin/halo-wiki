@@ -20,7 +20,7 @@ This is an ease test to quickly assess whether a pair of electrodes is working s
 2. Place one lead into the electrode’s lead slot
 3. Place the other lead into another electrode’s lead slot
 4. Touch all nibs of one electrode to all nibs of another. Some shear force will be needed to get a good connection.
-5. Normal impedance is <2000 ohms
+5. Normal impedance is **<1500 ohms**
 6. Record in [Halo Field Observations DB](https://pacific-basin-8674.herokuapp.com/admin/observation/?sort=4&desc=1) (Since the test requires two electrodes, be sure to include the SNs of each in the summary).
 If this test fails, try the other tests to find out the specific problem.
 
@@ -31,7 +31,7 @@ This test will assess the nib and connection between the nib and electrode backp
 1. Soak the electrode
 2. Place one lead into the lead slot on the electrode
 3. Place the other lead on the end of a nib
-4. Normal impedance is <2000 ohms
+4. Normal impedance is **<1000 ohms**
 5. Test on multiple nibs to see if there is a difference between nibs
 6. Record in [Halo Field Observations DB](https://pacific-basin-8674.herokuapp.com/admin/observation/?sort=4&desc=1)
 If this test fails, there is a problem with the nib itself and/or the connection between the nib and electrode backplate. Try the next test to figure it out!
@@ -42,7 +42,7 @@ If this test fails, there is a problem with the nib itself and/or the connection
 This test will assess the nib itself.
 1. Soak the electrode
 2. Place each lead on opposite ends of a single nib which failed the Lead to Nib Test
-3. Normal impedance is <300 ohms
+3. Normal impedance is **<800 ohms**
 4. Test on multiple nibs to see if there is a difference between nibs
 If this test fails, the nib itself is definitely one of the problems.
 
