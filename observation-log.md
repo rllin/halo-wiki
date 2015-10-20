@@ -4,8 +4,18 @@ This log is used to track the whereabouts and usage of the following items:
 * [Neurostimulators](neurostimulator)
 * [Controllers](controller)
 
-## What we log
+## What We Log
+* Assignment (when they leave or return to the office)
+* Malfunctions
+* Quality Assurance Tests (in-house)
+* Quality Control Tests (after/during field use)
+* Missing (hopefully not!)
 
+### Extra things we log for electrodes only:
+* Every usage
+* Cleaning/Disinfection
+* Manufacturing specs
+* Maintenance
 
 ## Searching the Log
 1. Click on the "Search" field next to "Create"
