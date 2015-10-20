@@ -1,5 +1,5 @@
 # Electrode Evolution
-This helps give an idea of how the electrodes have evolved over Halo's history
+This helps give an idea of how Halo's [[electrode]] has evolved over its history.
 ## Sponge Electrode
 Currently used in clinical trials.
 
