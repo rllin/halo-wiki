@@ -14,10 +14,5 @@ See this internal link [Observation Log](observation log) for more info.
 
 [Stage 1 Electrodes](electrode stage 1)
 
-## Electrode History
-This helps give an idea of how the electrodes have evolved over Halo's history
-### Sponge Electrode
-Currently used in clinical trials.
-![]()
-### Nib Electrode
-Currently used with partners.
+## Electrode Evolution
+Curious to see some of the steps we took to get where we are? See the [Electrode Evolution](electrode evolution)\.
