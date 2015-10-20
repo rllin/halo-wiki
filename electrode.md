@@ -49,6 +49,20 @@ If this test fails, the nib itself is definitely one of the problems.
 
 ![](https://photos-1.dropbox.com/t/2/AAC5ylvHrq7qbWCNZ2DiB0uHD8kusvzsypKrWwpgzNQvWA/12/480526477/png/32x32/1/_/1/2/Screen%20Shot%202015-10-20%20at%2010.51.58%20AM.png/EMTqyPIDGAYgBygH/EjkY49x8UJeeHBElEhlEA8OEQG2I5IIlvzGn5amgCx8?size=800x600&size_mode=2)
 
+## Manufacturing
+### Stage 1
+Backplate: [Protopasta Conductive PLA](http://www.proto-pasta.com/pages/conductive-pla)
+Frontplate: [Afinia ABS](http://afinia.com/)
+Nibs: [Yamahachi](http://www.yamahachi-chemical.com/page.opencellpen.e.html) (rounded & pointy)
+Velcro: [Velcro Industrial Strength - Low Profile](http://www.velcro.com/products/industrial-strength/900402__Industrial-Strength-Low-Profile#/?color=0f7710dcd39341a08184085926cd57db&shape=86d986b2d05347c08fc15520eba586f4&size=10ft x 1in)
+
+#### Findings
+An overview of the findings that have resulted in the current electrodes.
+* Pointy nibs give the same impedance as rounded nibs
+* Conductive glue (Pelco Conductive Carbon Glue) gives a lower impedance and has a better hold than Loctite 4541 Biomedical Superglue
+ * Probably because we are able to glue the entire inside of the nib, not just the base.
+* Loctite 4541 causes problems with the 70% IPS Bath
+
 ## Electrode History
 This helps give an idea of how the electrodes have evolved over Halo's history
 ### Sponge Electrode
