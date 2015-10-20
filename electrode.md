@@ -10,10 +10,7 @@ Interested about the other components of Stage 1?
 Log anything that happens to an electrode, including test results, in the [Observation Log](https://pacific-basin-8674.herokuapp.com/admin/observation/?sort=4&desc=1)\! 
 See this internal link [Observation Log](observation log) for more info.
 
-## Troubleshooting
-Solve your problems at the [Stage 1 electrode troubleshooting](electrode stage 1 troubleshooting) page.
-
-## Manufacturing
+## Installments
 
 [Stage 1 Electrodes](electrode stage 1)
 
