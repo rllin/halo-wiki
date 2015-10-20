@@ -14,6 +14,9 @@ Glue3: (no longer in use, see Findings) [Loctite 4541](http://www.henkelna.com/a
 1. Put electrode in 70% IPA for 20-30 minutes
 2. Remove and let air dry for at least 2 hours
 
+## Troubleshooting
+Check out the [Stage 1 electrode troubleshooting](electrode stage 1 troubleshooting) page.
+
 ## Current Manufacturing Process
 1. Deburr the frontplate and backplate after printing with tiny pliers and a file.
 2. Put the backplate into the frontplate and assess fit, all corners should be flush. Deburr more if necessary.
