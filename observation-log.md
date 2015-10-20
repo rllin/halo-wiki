@@ -1,5 +1,5 @@
 # Observation Log
-This log is used to track the whereabouts and usage of the following items:
+The [Observation Log](https://pacific-basin-8674.herokuapp.com/admin/observation/?sort=4&desc=1) is used to track the whereabouts and usage of the following items:
 * [Electrodes](electrode)
 * [Neurostimulators](neurostimulator)
 * [Controllers](controller)
