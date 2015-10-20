@@ -49,4 +49,10 @@ If this test fails, the nib itself is definitely one of the problems.
 
 ![](https://photos-1.dropbox.com/t/2/AAC5ylvHrq7qbWCNZ2DiB0uHD8kusvzsypKrWwpgzNQvWA/12/480526477/png/32x32/1/_/1/2/Screen%20Shot%202015-10-20%20at%2010.51.58%20AM.png/EMTqyPIDGAYgBygH/EjkY49x8UJeeHBElEhlEA8OEQG2I5IIlvzGn5amgCx8?size=800x600&size_mode=2)
 
-## Manufacturing
+## Electrode History
+This helps give an idea of how the electrodes have evolved over Halo's history
+### Sponge Electrode
+Currently used in clinical trials.
+![]()
+### Nib Electrode
+Currently used with partners.
