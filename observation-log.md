@@ -24,4 +24,8 @@ The [Observation Log](https://pacific-basin-8674.herokuapp.com/admin/observation
 
 ## Adding to the Log
 1. Click the "Create" tab
-2. Enter the serial number of the hardware you'
+2. Enter the serial number of the hardware
+3. Choose the type of hardware
+4. Choose the Activity and Write a Summary about the activity
+5. Upload a file, if necessary
+6. Initial it as yourself
