@@ -1,5 +1,5 @@
 # Stage 1 Electrode Troubleshooting
-
+This is the troubleshooting page for the [Stage 1 electrode](electrode stage 1)\.
 If you encounter impedance problems with an electrode, try the following tests to figure out why it may not be working.
 For all tests, make sure the electrode is properly salinated (by either brining & water spray or soaking in saline).
 
