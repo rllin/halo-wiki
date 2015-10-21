@@ -59,11 +59,13 @@ Batting is one of the most fundamental and important baseball skills; poorly und
 * coordination / timing pattern is critically important for maximum energy transfer
 
 ## Batting philosophy
+
 ### coaches
 * Ted Williams - rotational
 * Charlie Lau - linear
 coaches often have different vocabularies so it’s important to find unifying principles
 instruction can be internally (keep your head down) or externally (swing through the ball) focused
+
 ### scientific
 * rotational and linear both critical
 * tons of studies have been done but all are limited in one way or another
@@ -72,6 +74,7 @@ instruction can be internally (keep your head down) or externally (swing through
  * types/skill of players
  * “real world” setting
  * etc.
+
 ### swing adjustment
 * speed
 * prepare for a fastball and adjust
@@ -82,10 +85,12 @@ instruction can be internally (keep your head down) or externally (swing through
 * make as few changes as necessary to hit the ball
 * must stride directly toward pitcher because this action must be completed before pitch can be identified
 * therefore, adjust swing based on bat/elbow/arm position
+
 ### vision and cognition
 * incredibly important in batting
 * skilled players much better at processing the large amount of visual information required for batting
 * skilled players also able to provide much more in-depth analyses/comments on pitches based on same information as novice players
+
 ### functional strength
 * also important
 * however, raw strength does not necessarily translate to increases in bat speed
