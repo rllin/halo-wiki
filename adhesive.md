@@ -24,7 +24,7 @@
 > By priming the surface of a silicone rubber, one can enhance the bondability potential by altering the surface chemistry. Silanols, vinyls and more polar moieties can increase the bonding potentials of the typically non-polar, trimethyl siloxane backbone surface. The use of primers can be very effective combined with certain RTVs and LSRs.
 > The downside of primers are flammability of certain primers; strong odors from the carrier solvents; and variability of primer performance based on many factors, including ambient humidity and temperature, application technique of the primer and age of the primer.
 
- * RTV
+ * [[RTV]] Silicone
 > These products often are self-priming and routinely are utilized, offering good performance.
 > The downside of utilizing typical RTVs is that they require open air curing on racks or trays for extended periods of time to result in a full cure and good adhesion. The length of full cure time required for RTVs will vary dependent upon the cure system, formulation and manufacturer. By-products are released during cure, and storage on racks or trays for 24 to 72 hours or more is typical. The additional use of primers may or may not be required.
 
