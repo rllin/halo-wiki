@@ -1,4 +1,5 @@
-# [Biomechanics of the Baseball Swing](https://drive.google.com/a/haloneuro.com/file/d/0B_xLXBdz5cEfSmxCMlhsc2JHQkE/view)
+# Biomechanics of the Baseball Swing
+[Biomechanics of the Baseball Swing](https://drive.google.com/a/haloneuro.com/file/d/0B_xLXBdz5cEfSmxCMlhsc2JHQkE/view)
 David Fortenbaugh
 
 Batting is one of the most fundamental and important baseball skills; poorly understood and difficult to master
