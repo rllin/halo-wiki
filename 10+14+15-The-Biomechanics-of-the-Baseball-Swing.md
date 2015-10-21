@@ -7,6 +7,7 @@ Batting is one of the most fundamental and important baseball skills; poorly und
 * Improve upon methodology of previous researchers
 * Provide full biomechanical description of the baseball swing
 * Compare swings against pitches thrown at different locations/speeds
+
 ## Setup
 * 43 AA minor league players (1300 trials)
 * batting practice in indoor laboratory against live pitcher throwing mix of fastballs and change-ups
@@ -21,12 +22,14 @@ Batting is one of the most fundamental and important baseball skills; poorly und
 * swing initiation
 * swing acceleration
 * follow-through
+
 ## Key swing events divide phases
 * lead foot off
 * lead foot down
 * weight shift commitment
 * max front foot vertical ground force
 * bat-ball contact
+
 ## Pitch categories tested
 * fastball
 * high in
@@ -36,21 +39,25 @@ Batting is one of the most fundamental and important baseball skills; poorly und
 * low out
 * change-up
 * same breakout
+
 ## Findings:
 * More fully rotated positions, particularly of the pelvis and bat, were critical to the batters’ successes on inside pitches
 * less rotated positions keyed successes against outside pitches. 
 * The trail and lead arms worked together as part of a closed chain to drive the hand path. 
 * Successful swings had the trail elbow extended more for HIGH IN and flexed more for LOW OUT, though batters often struggled to execute this movement properly. 
 * A distinct pattern among successful swings against fastballs, successful swings against changeups, and unsuccessful swings against changeups was witnessed; namely a progressive delay in which the batter prematurely initiated the events of the kinetic chain, especially when unsuccessful in hitting a changeup. 
+
 ## Recommendations for batting coaches
 * get batters to take a consistent approach in the early phases of every swing (particularly for the lower body), 
 * identify both pitch type and location as early as possible
 * use the rotation of the pelvis to propagate the energy transfer of the kinetic chain from the group to the upper body
 * use the pelvis, and subsequently, the upper body, to orient the trunk and hands to an optimal position to drive the ball to the desired field
+
 ## Kinetic chain
 * energy passed along all of the “links” in your body’s chain
 * lower limb -> trunk -> upper limb -> bat
 * coordination / timing pattern is critically important for maximum energy transfer
+
 ## Batting philosophy
 ### coaches
 Ted Williams - rotational
@@ -92,6 +99,7 @@ data collected
  * medicine ball work has also been shown to be helpful by some studies
  * lower body emphasis more productive than working on arms/wrists/etc.
 * donuts / weighted bat warm-ups = dubious effect
+
 ## Results
 * Few relevant/practical statistical differences between lower body and trunk measurements across pitch types/speeds or success scenarios
 * Many significant differences in upper body and bat kinematics, however
@@ -102,11 +110,13 @@ data collected
 * similarly, more bat rotation for inside and less for outside
 * almost all batters start their early swing phases the same but the execution of the swing motion varies more
 * Able to identify the “typical” professional baseball swing by averaging the movements/positions during each pitch type
+
 ## Key recommendations for coaches teaching players:
 1. develop a strong, consistent approach for every swing in the early phases, particularly with the lower body; 
 2. anticipate a fastball for every pitch, but be able to recognize an off-speed pitch as early as possible; 
 3. use the powerful rotation of the pelvis to transfer the GRF and help direct the body according to the location of the incoming pitch; and 
 4. use the upper body to guide the hands along the appropriate path, putting the bat in a strong, properly angled position to direct the ball from its impact location to its desired destination on the field
+
 ## Limitations:
 * Non-real world hitting conditions
 * indoor
