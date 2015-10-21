@@ -60,18 +60,18 @@ Batting is one of the most fundamental and important baseball skills; poorly und
 
 ## Batting philosophy
 ### coaches
-Ted Williams - rotational
-Charlie Lau - linear
+* Ted Williams - rotational
+* Charlie Lau - linear
 coaches often have different vocabularies so it’s important to find unifying principles
 instruction can be internally (keep your head down) or externally (swing through the ball) focused
 ### scientific
-rotational and linear both critical
-tons of studies have been done but all are limited in one way or another
-data collected
-* N
-* types/skill of players
-* “real world” setting
-* etc.
+* rotational and linear both critical
+* tons of studies have been done but all are limited in one way or another
+* data collected
+ * N
+ * types/skill of players
+ * “real world” setting
+ * etc.
 ### swing adjustment
 * speed
 * prepare for a fastball and adjust
