@@ -1,1 +1,1 @@
-[McMaster-Carr](http://www.mcmaster.com/) is an industrial supply store with wide selection, fast shipping, and an easy return policy.
+[McMaster-Carr](http://www.mcmaster.com/) is an industrial supply store with wide selection, fast shipping (usually next day), and an easy return policy.
