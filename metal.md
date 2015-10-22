@@ -4,6 +4,7 @@
 ### Online
 * [[McMaster-Carr]] - expensive
 * [[OnlineMetals]] - cheaper
+
 ## Local
 * [[Bay Shore Metals]]
 * Ask Local Machine Shop for Scraps
