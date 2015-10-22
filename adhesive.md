@@ -3,10 +3,19 @@
 # Typical Parameters
 * [[viscosity]]
 * [[pot life]]
+* shelf life
 * [[shore hardness]]
 * [[cure time]]
 * [[cure temperature]]
-* temperature range
+* temperature range (or service temperature)
+* tensile strength
+* color
+* specific gravity
+* [[tack-free time]]
+* dielectric constant
+* dissipation factor
+* [[volume resistivity]]
+* 
 
 # Vendors
 * [[Master Bond Inc]]
