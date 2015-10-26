@@ -1,4 +1,5 @@
-# Halo 100 series:  
+# Halo 100 series
+This is the [[research review]] for the Halo 100 series.
 
 ## Halo 100: (pilot study)
 * Task: finger sequence test (FST), box and block task, pegboard task
