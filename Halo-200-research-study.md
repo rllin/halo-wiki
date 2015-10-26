@@ -1,4 +1,6 @@
 # Halo 200 Series
+This is the [[research review]] for the Halo 200 series.
+
 ## Halo 200
 * Task: 3 back and backward digit span (memory task)
 * Stimulation: 1.5 mA or sham to dorsolateral prefrontal cortex (DLPFC) for 20 minutes 
