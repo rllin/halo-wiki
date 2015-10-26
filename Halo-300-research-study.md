@@ -1,4 +1,6 @@
 # Halo 300 Series
+This is a [[research review]] for the Halo 300 series.
+
 ## Halo 300
 * Task: various
 * Stimulation: <2 mA or sham over M1 for <30 mins (1-3 days in duration)
