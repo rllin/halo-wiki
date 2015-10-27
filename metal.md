@@ -6,6 +6,7 @@
 * [[OnlineMetals]] - cheaper
 
 ### Local
-* [[Bay Shore Metals]]
+* [[Alan Steel]] - will cut to size
+* [[Bay Shore Metals]] - will cut square stock
 * Ask Local Machine Shop for Scraps
 * Metal Suppliers will have good deals
