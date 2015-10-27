@@ -1,7 +1,6 @@
-**Quality Sartor Saw Works** is a blade and tooling supplier located in Bayshore.
+**Quality Sartor Saw Works** is a blade and tooling supplier for wood.
 
 ## Products
-* End-Mills
 
 
 ## Location
