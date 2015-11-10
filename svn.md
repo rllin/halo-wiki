@@ -27,5 +27,5 @@ Once you have it, type
 ```
 svn checkout [checkout url]
 ```
-You may have to typ ```p``` to accept the fingerprint.
+You may have to type ```p``` to accept the fingerprint.
 Type in your computer password and then login info for Assembla.
