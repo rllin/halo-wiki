@@ -1,1 +1,1 @@
-**pave the cowpaths** is an idiomatic analogy referencing any act which attempts to formalize or solidify an informal, consistent pattern
+**pave the cowpaths** is an idiomatic analogy in reference to any act which attempts to formalize or solidify a consistent, but informal, pattern.
