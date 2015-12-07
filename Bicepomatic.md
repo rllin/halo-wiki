@@ -1,4 +1,4 @@
-**Bicepomatic** is an apparatus intended to characterize bicep contraction under dynamic conditions. It is intended for use in MVC-05.
+**Bicepomatic** is an apparatus intended to characterize bicep contraction under dynamic conditions. It is intended for use in MVC-06.
 
 # Safety
 ### Hard Stop
