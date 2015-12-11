@@ -2,7 +2,7 @@
 
 ## List of CROs
 [[Nelson Laboratories]]
-[[Pacific Bio Labs]]
+[[Pacific BioLabs]]
 [[Toxikon]]
 
 ## Names, Abbreviations, Misnomers
