@@ -1,5 +1,5 @@
 # Windows SVN Setup
-
+Set up the [[svn]] for Windows.
 1. Download [TortoiseSVN](https://tortoisesvn.net/downloads.html)
 2. Install TortoiseSVN
 3. Navigate to desired save location in your File Explorer
