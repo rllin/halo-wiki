@@ -1,5 +1,5 @@
 # SVN Setup
-
+[Have Windows?](windows svn)
 ### Install X-Code
 If you haven't already installed X-Code on your computer, open ```Terminal``` and run
 
