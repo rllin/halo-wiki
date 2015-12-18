@@ -3,4 +3,4 @@
 
 ## Distributors
 [[McMaster Carr]]
-http://www.professionalplastics.com/
+[Professional Plastics](http://www.professionalplastics.com/)
