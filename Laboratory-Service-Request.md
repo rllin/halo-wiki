@@ -1,2 +1,2 @@
 ## Names, Abbreviations, and Misnomers
-# LSR
+* LSR
