@@ -6,5 +6,5 @@ Fabricating
 Fabrication
 Precision
 CNC
-Mill
+Mill, Milling
 Lathe
