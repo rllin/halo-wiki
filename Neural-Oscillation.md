@@ -23,3 +23,5 @@ Neural Oscillator
 [[Class I Neurons]]
 [[Class II Neurons]]
 [[neural ensamble]]
+[[Hodgkin–Huxley model]]
+[[resonance]]
