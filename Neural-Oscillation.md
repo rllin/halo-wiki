@@ -3,5 +3,5 @@
 ## Keywords
 Central Neuronal Oscillator
 Neuronal Oscillator
-Neuronal Osciallation
+Neuronal Oscillation
 Neural Oscillator
