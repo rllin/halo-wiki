@@ -16,3 +16,4 @@ Neural Oscillator
 [[Pacemaker Cell]]
 [[Alpha Wave]]
 [[resonators]]
+[[subthreshold membrane potential oscillations]
