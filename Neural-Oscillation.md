@@ -4,11 +4,12 @@
 
 "The interaction between neurons can give rise to oscillations at a different frequency than the firing frequency of individual neurons." (Wikipedia)
 
-[[Pacemaker Cells]]
+
 
 ## Keywords
 Central Neuronal Oscillator
 Neuronal Oscillator
 Neuronal Oscillation
 Neural Oscillator
-Pacemaker Cells
+[[Pacemaker Cell]]
+[[Alpha Wave]]
