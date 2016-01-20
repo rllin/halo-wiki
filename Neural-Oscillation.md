@@ -4,7 +4,7 @@
 
 "The interaction between neurons can give rise to oscillations at a different frequency than the firing frequency of individual neurons." (Wikipedia)
 
-
+"...neural oscillations have been linked to cognitive states, such as awareness and consciousness." (Wikipedia)
 
 ## Keywords
 Central Neuronal Oscillator
