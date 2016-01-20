@@ -6,6 +6,8 @@
 
 "...neural oscillations have been linked to cognitive states, such as awareness and consciousness." (Wikipedia)
 
+"oscillatory activity of distant neural structures (single neurons or neural ensembles) can synchronize" (Wikipedia) 
+
 ## Keywords
 Central Neuronal Oscillator
 Neuronal Oscillator
@@ -13,3 +15,4 @@ Neuronal Oscillation
 Neural Oscillator
 [[Pacemaker Cell]]
 [[Alpha Wave]]
+[[resonators]]
