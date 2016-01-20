@@ -8,12 +8,18 @@
 
 "oscillatory activity of distant neural structures (single neurons or neural ensembles) can synchronize" (Wikipedia) 
 
+"Neurons in a neural ensemble rarely all fire at exactly the same moment, i.e. fully synchronized. Instead, the probability of firing is rhythmically modulated such that neurons are more likely to fire at the same time, which gives rise to oscillations in their mean activity" (Wikipedia)
+
 ## Keywords
 Central Neuronal Oscillator
 Neuronal Oscillator
 Neuronal Oscillation
 Neural Oscillator
-[[Pacemaker Cell]]
-[[Alpha Wave]]
+[[pacemaker cell]]
+[[alpha wave]]
 [[resonators]]
-[[subthreshold membrane potential oscillations]
+[[subthreshold membrane potential oscillations]]
+[[neurodynamics]]
+[[Class I Neurons]]
+[[Class II Neurons]]
+[[neural ensamble]]
