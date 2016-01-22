@@ -1,5 +1,7 @@
 **Roneda Machine Works**
 
+A Freelance Machinist who does small volume. His contact was given to Patrick Wolber by Victoria Hammet of [[Function]]
+
 ## Contact
 David Madrigal - (650) 368-8083   
 ronedamachineworks@yahoo.com
