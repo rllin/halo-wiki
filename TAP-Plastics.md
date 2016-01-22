@@ -7,11 +7,11 @@
 * Phone: 415.864.7360
 * Fax: 415.864.3177
 
-#Services
+## Services
 Cut-to-size Plastic
 Plastic
 
-#Materials
+## Materials
 Acrylic
 HDPE
 Polyethylene
