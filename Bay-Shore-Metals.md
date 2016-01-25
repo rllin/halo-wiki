@@ -11,3 +11,6 @@ Bayshore - [244 Napoleon St, San Francisco, CA 94124](https://www.google.com/map
 ### Aluminum
 * Square Stock > 1.5in can be cut to small lengths and pro-rated. 
 * 3x3 inch: $3.60/in and $3/cut
+
+## Names, Acronyms, Misnomers
+* Bayshore Metals
