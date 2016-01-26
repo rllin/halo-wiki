@@ -1,0 +1,1 @@
+"Quantization is defined as the process of converting an analog signal to a digital representation." [National Instruments](http://www.ni.com/white-paper/3016/en/)
