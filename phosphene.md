@@ -1,0 +1,1 @@
+"the experience of seeing light without light actually entering the eye." [Wikipedia](https://en.wikipedia.org/wiki/Phosphene)
