@@ -1,0 +1,1 @@
+[sampling with irregular intervals](https://www.math.ucdavis.edu/~strohmer/research/sampling/irsampl.html)
