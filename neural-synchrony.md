@@ -1,0 +1,1 @@
+[neural synchrony](http://www.scholarpedia.org/article/Measures_of_neuronal_signal_synchrony)
