@@ -5,7 +5,7 @@ PSI = 1 if signals are synchronized (phase-difference is constant)
 
 (Mehta 2014, Montage Matters: The Influence of Transcranial Alternation Current Stimulation on Human Physiological Tremor)
 
-[neural synchrony](http://www.scholarpedia.org/article/Measures_of_neuronal_signal_synchrony)
+[[neural synchrony]]
 
 ## Names, Abbreviations, and Misnomers
 * PSI, P.S.I., psi
