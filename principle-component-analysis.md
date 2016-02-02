@@ -5,4 +5,4 @@
 * KLT, Kosambi-Karhunen–Loève transform
 * Hotelling transform
 * POD, proper orthogonal decomposition
-* SVD, [singular value decomposition]
+* SVD, [[singular value decomposition]]
