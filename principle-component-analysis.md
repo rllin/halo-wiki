@@ -6,3 +6,4 @@
 * Hotelling transform
 * POD, proper orthogonal decomposition
 * SVD, [[Singular Value Decomposition]]
+* EVD, eigenvalue decomposition
