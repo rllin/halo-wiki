@@ -11,5 +11,7 @@ inverse Fourier Transform / Fourier Synthesis
  * FDHM - Full Duration at Half Maximum (when ind. variable is time)
  * HWHM - Half duration at half maximum
 
-## Names, Abbreviation, Misnomers
+## Names, Abbreviation, Misnomers, Similar
 * [Fast Fourier Transform, FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+* [[spectral density]]
+* [Power Spectral Density, PSD](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/readings/MIT6_011S10_chap10.pdf)
