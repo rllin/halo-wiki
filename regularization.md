@@ -1,0 +1,1 @@
+* [smoothing by regularization](http://ahay.org/RSF/book/jsg/shape/paper_html/node3.html)
