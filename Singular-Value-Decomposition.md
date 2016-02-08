@@ -6,8 +6,8 @@
 Only the n column vectors of U corresponding to the row vectors of V* are calculated. The remaining column vectors of U are not calculated. This is significantly quicker and more economical than the full SVD if n≪m. The matrix Un is thus m×n, Σn is n×n diagonal, and V is n×n. [Wikipedia, Thin SVDs](https://en.wikipedia.org/wiki/Singular_value_decomposition#Reduced_SVDs)
 
 **Sign Ambiguity / Indeterminacy**
-"...there is an intrinsic sign indeterminacy that can significantly impact conclusions...we provide a solution to the sign ambiguity problem..."
-[Resolving the Sign Ambiguity in the Singular Value Decomposition](http://prod.sandia.gov/techlib/access-control.cgi/2007/076422.pdf)
+"Though SVD and EVD are well-established...there is an intrinsic sign indeterminacy that can significantly impact conclusions...we provide a solution to the sign ambiguity problem..."
+[Resolving the Sign Ambiguity in the Singular Value Decomposition, pg.3](http://prod.sandia.gov/techlib/access-control.cgi/2007/076422.pdf)
 
 ## Names, Acronyms, Misnomers
 * SVD, svd, S.V.D
