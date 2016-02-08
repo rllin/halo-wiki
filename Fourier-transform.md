@@ -1,0 +1,1 @@
+[windowing function](https://en.wikipedia.org/wiki/Window_function)
