@@ -1,5 +1,7 @@
 [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
+[FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
+
 ## Related
 [windowing function](https://en.wikipedia.org/wiki/Window_function)
 inverse Fourier Transform / Fourier Synthesis
