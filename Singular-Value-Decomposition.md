@@ -9,6 +9,7 @@ Only the n column vectors of U corresponding to the row vectors of V* are calcul
 "Though SVD and EVD are well-established...there is an intrinsic sign indeterminacy that can significantly impact conclusions...we provide a solution to the sign ambiguity problem..."
 [Resolving the Sign Ambiguity in the Singular Value Decomposition, pg.3](http://prod.sandia.gov/techlib/access-control.cgi/2007/076422.pdf)
 
+## Evaluation
 **Comparing Components**
 * I think that the magnitude of the eigenvalue is proportional to the amount of variation along the axis (but not sure about this) - [[Patrick Wolber]]
 
