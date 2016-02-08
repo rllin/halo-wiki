@@ -8,7 +8,7 @@ inverse Fourier Transform / Fourier Synthesis
 ## Evaluation
 * [FWHM, Full Width at Half Maximum](https://en.wikipedia.org/wiki/Full_width_at_half_maximum)
  * FDHM - Full Duration at Half Maximum (when ind. variable is time)
- * HWHM
+ * HWHM - Half duration at half maximum
 
 ## Names, Abbreviation, Misnomers
 * [Fast Fourier Transform, FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
