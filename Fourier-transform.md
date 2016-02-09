@@ -2,6 +2,8 @@
 
 [FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
 
+[FFT of unevenly / irregularly spaced sampling / data](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
+
 ## Related
 [windowing function](https://en.wikipedia.org/wiki/Window_function)
 inverse Fourier Transform / Fourier Synthesis
