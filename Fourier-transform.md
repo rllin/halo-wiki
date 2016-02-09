@@ -3,8 +3,8 @@
 [FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
 
 **FFT of unevenly / irregularly spaced sampling / data**
-[source forge](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
-[green and lee](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
+[StackExchange Forum](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
+[Greengard and Lee](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
 
 ## Related
 [windowing function](https://en.wikipedia.org/wiki/Window_function)
