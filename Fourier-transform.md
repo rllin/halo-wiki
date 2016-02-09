@@ -2,7 +2,7 @@
 
 [FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
 
-**FFT of unevenly / irregularly spaced sampling / data**
+**Nonequispaced Fourier Transform** FFT of unevenly / irregularly spaced sampling / data
 [StackExchange Forum](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
 [Greengard and Lee (2004) Accelerating the Nonuniform
 Fast Fourier Transform](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
