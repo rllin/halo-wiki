@@ -4,7 +4,8 @@
 
 **FFT of unevenly / irregularly spaced sampling / data**
 [StackExchange Forum](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
-[Greengard and Lee](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
+[Greengard and Lee (2004) Accelerating the Nonuniform
+Fast Fourier Transform](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
 
 ## Related
 [windowing function](https://en.wikipedia.org/wiki/Window_function)
