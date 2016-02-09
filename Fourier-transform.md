@@ -1,11 +1,14 @@
 [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
+**Fast Fourier Transform**
+
 [FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
 
-**Nonequispaced Fourier Transform** FFT of unevenly / irregularly spaced sampling / data
+**NUFFT (Nonunifrom Fast Fourier Transform)** FFT of unevenly spaced / irregularly spaced / nonequispaced sampling / data
 [StackExchange Forum](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
 [Greengard and Lee (2004) Accelerating the Nonuniform
 Fast Fourier Transform](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
+"When sampling is uniform, the fast Fourier transform (FFT) allows this calculation to be computed in O(N log N) operations rather than O(N^2) operations. Unfortunately, when the sampling is non-uniform, the FFT does not apply."
 
 ## Related
 [windowing function](https://en.wikipedia.org/wiki/Window_function)
