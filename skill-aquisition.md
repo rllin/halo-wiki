@@ -1,0 +1,1 @@
+[Newell (1980) Mechanisms of skill acquisition and the law of practice](http://repository.cmu.edu/cgi/viewcontent.cgi?article=3420&context=compsci)
