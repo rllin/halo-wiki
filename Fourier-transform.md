@@ -15,6 +15,7 @@ Fast Fourier Transform](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pd
 inverse Fourier Transform / Fourier Synthesis
 [uncertainty principle](https://en.wikipedia.org/wiki/Fourier_transform#Uncertainty_principle)
 [hermitian function](https://en.wikipedia.org/wiki/Hermitian_function)
+[[detrendng]]
 
 ## Evaluation
 * [FWHM, Full Width at Half Maximum](https://en.wikipedia.org/wiki/Full_width_at_half_maximum)
