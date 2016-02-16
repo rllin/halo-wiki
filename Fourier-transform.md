@@ -10,6 +10,12 @@
 Fast Fourier Transform](http://math.nyu.edu/faculty/greengar/glee_nufft_sirev.pdf)
 "When sampling is uniform, the fast Fourier transform (FFT) allows this calculation to be computed in O(N log N) operations rather than O(N^2) operations. Unfortunately, when the sampling is non-uniform, the FFT does not apply."
 
+**Sampling**
+* Increasing sampling rate raises the Nyquist Frequency (the highest frequency that can be resolved without aliasing) but does not improve resolution at lower frequencies
+* Increasing the number of samples (at the same sampling rate) improves the frequency domain resolution of the fourier transform
+
+>> Adding additional samples will improve the frequency domain resolution of our estimate and sampling at a finer rate will change the Nyquist frequency, the highest frequency for which the spectrum can be estimated. [W.H. Press, S.A. Teukolsky, W.T Vetterling and B.P. Flannery (2007) Numerical Recipes: The Art of Scientific Computing. Cambridge: Cambridge University Press. 3rd Ed.]
+
 ## Related
 [windowing function](https://en.wikipedia.org/wiki/Window_function)
 inverse Fourier Transform / Fourier Synthesis
