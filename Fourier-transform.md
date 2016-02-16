@@ -24,7 +24,7 @@ inverse Fourier Transform / Fourier Synthesis
 [[detrendng]]
 [auto-spectrum](http://www.gaussianwaves.com/topic/whats-the-difference-between-autospectrum-and-power-spectrum-densitypsd/)
 cross-spectrum
-[[Thomson's Multitaper Method]](http://nipy.org/nitime/examples/multi_taper_spectral_estimation.html#nr2007)
+[Thomson's Multitaper Method](http://nipy.org/nitime/examples/multi_taper_spectral_estimation.html#nr2007)
 
 ## Evaluation
 * [FWHM, Full Width at Half Maximum](https://en.wikipedia.org/wiki/Full_width_at_half_maximum)
