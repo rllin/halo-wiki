@@ -4,6 +4,8 @@
 
 [FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
 
+**Fundamental Frequency** -- The fundamental frequency of a Fourier transform is the frequency corresponding to the time period over which that FT is performed. (Ex: If a fourier transform is performed upon 20s of data, the fundemental frequency is 1/20s or 0.05 Hz) 
+
 **NUFFT (Nonunifrom Fast Fourier Transform)** FFT of unevenly spaced / irregularly spaced / nonequispaced sampling / data
 [StackExchange Forum](http://scicomp.stackexchange.com/questions/593/how-do-i-take-the-fft-of-unevenly-spaced-data)
 [Greengard and Lee (2004) Accelerating the Nonuniform
