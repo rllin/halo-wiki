@@ -6,7 +6,7 @@ The gamma equation has three parameters, ```a```, ```epsilon```, and ```lambda``
 
 ``` f(x| a,epsilon,lambda) = lambda^a * (x-epsilon)^(a-1) * exp(-lambda*(x-epsilon)) / gamma(a) ```
 
-where gamma is the [gamma function](https://en.wikipedia.org/wiki/Gamma_function).
+where gamma() is the [gamma function](https://en.wikipedia.org/wiki/Gamma_function).
 
 ### a
 The rate parameter **a** reflects the approximate number of exponentials contributing to the function (potentially representing the number of exponentially-distributed processes occurring). Does not track set size.
