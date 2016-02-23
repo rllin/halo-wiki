@@ -23,5 +23,4 @@ Captures the duration of search processes.
 Increase in **a** = more exponentials contributing to function (more skew)
 	(potentially more exponentially-distributed processing steps)
  Increase in **E** = higher mean reaction time (change only in the mean)
- Increase in **L** = steeper/higher peak (more consistency / less variance) 
-	(higher efficiency across processes)
+ Increase in **L** = steeper/higher peak (more consistency / less variance) (higher efficiency across processes)
