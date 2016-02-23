@@ -9,11 +9,11 @@ The gamma equation has three parameters, ```a```, ```epsilon```, and ```lambda``
 where gamma() is the [gamma function](https://en.wikipedia.org/wiki/Gamma_function).
 
 ### a
-The rate parameter **a** reflects the approximate number of exponentials contributing to the function (potentially representing the number of exponentially-distributed processes occurring). Does not track set size.
+The rate parameter **a** reflects the approximate number of exponentials contributing to the function (potentially representing the number of exponentially-distributed processes occurring). Does not track with visual search set size.
 
 ### epsilon
 The shift parameter **epsilon** moves the function along the x-axis without affecting its shape.
-Varied with task and target-present vs. target-absent, but not set size - would seem to be more closely tied to decision processes.
+Varies with visual search task and target-present vs. target-absent, but not search set size - would seem to be more closely tied to decision processes.
 
 ### lambda
 Each exponential process may have a different scale, but the average scale of the processes is captured by the parameter **lambda**. 
