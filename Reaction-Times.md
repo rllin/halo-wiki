@@ -4,6 +4,7 @@
 [Matthews Correlation Coefficient](https://en.wikipedia.org/wiki/Matthews_correlation_coefficient) is a measure of accuracy when true (correct) and false (incorrect) responses are given to positive (response) and negative (non-response) stimuli.
 
 ## SSRT
+SSRT, or stop-signal reaction time, is the time it takes for the stop-signal to elicit an inhibited response. This is impossible to measure directly but can be approximated. For analysis on approximation methods, see [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2696813/).
 
 
 ## Distributions
