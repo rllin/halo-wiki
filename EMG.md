@@ -16,10 +16,10 @@ A number of ways to extract useful information from the emg signal are detailed 
 
 Both the Median Frequency and the Mean Frequency can be used as measures of peripheral fatigue as they both describe the power spectrum.  The power spectrum is a chart of all the individual frequencies that make up a signal and the amplitude associated with each signal.  As the muscle fatigues, the power spectrum shifts towards the lower frequencies, which is reflected by a lower median and mean frequency.  Generally median frequency has been shown to be a better reflection of the fatigue than mean frequency, however both are valid.
 
-Details on how to actually calculate the median frequency or mean frequency can be found on their respective pages.
+Details on how to actually calculate the [[median frequency]] or [[mean frequency]] can be found on their respective pages.
 
 ## Recurrence Plot Analysis (RQA)
 
 RQA is a nonlinear approach to signal analysis, it essentially looks for recurrence in a signal, or how often a series of events repeat themselves.  A very good explanation of RQA can be found here https://www.nsf.gov/sbe/bcs/pac/nmbs/chap2.pdf including an example of using RQA for EMG analysis.  Overall RQA analysis produces a number of different statistics, but the one's we care about are the %determinism and the %laminarity.  Determinism refers to the number of recurrent points that form diagonal lines in the recurrence plot.  It is related to fatigue in that an increase in the determinism indicates greater levels of fatigue.
 
-Details on how to run a RQA analysis are here
+Details on how to run a [[RQA analysis]] are here
