@@ -24,6 +24,6 @@ http://cdn.intechopen.com/pdfs/40123/InTech-The_usefulness_of_mean_and_median_fr
 
 ## Recurrence Plot Analysis (RQA)
 
-RQA is a nonlinear approach to signal analysis, it essentially looks for recurrence in a signal, or how often a series of events repeat themselves.  A very good explanation of RQA can be found here https://www.nsf.gov/sbe/bcs/pac/nmbs/chap2.pdf including an example of using RQA for EMG analysis.  Overall RQA analysis produces a number of different statistics, but the one's we care about are the %determinism and the %laminarity.  Determinism refers to the number of recurrent points that form diagonal lines in the recurrence plot.  It is related to fatigue in that an increase in the determinism indicates greater levels of fatigue.
+RQA is a nonlinear approach to signal analysis, it essentially looks for recurrence in a signal, or how often a series of events repeat themselves.  A very good explanation of RQA can be found here https://www.nsf.gov/sbe/bcs/pac/nmbs/chap2.pdf including an example of using RQA for EMG analysis.  Overall RQA analysis produces a number of different statistics, but the one's we care about are the %determinism and the %laminarity.  Determinism refers to the number of recurrent points that form diagonal lines in the recurrence plot.  It is related to fatigue in that an increase in the determinism indicates greater levels of fatigue, same goes for Laminarity
 
 Details on how to run a [[RQA analysis]] are here
