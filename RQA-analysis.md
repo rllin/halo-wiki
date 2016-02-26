@@ -6,7 +6,7 @@ The RQA function is found in the analytics.py program in the halo python library
 
 the trace is simply the filtered signal, so the signal should have been rectified, band-passed, and notch filtered as described on the [[EMG]] page.
 
-## Embedding Dimension (td)
+## Embedding Dimension (ed)
 
 The embedding dimension is the dimension that the original signal exists in.  the emg records the signal in 2 dimensions, namely time and voltage.  However, the signal could be coming from any number of places, not just the muscle, and with each new source that adds variability and possible dimensions to the true source signal.  There are a number of ways to determine the correct embedding dimension, with one of the most popular being the [false nearest neighbors method](http://www.csee.wvu.edu/~xinl/library/papers/physics/embedding_dimension.pdf).  With EMG signals the embedding dimension should be between 10 and 20 dimensions to ensure proper encapsulation.
 
