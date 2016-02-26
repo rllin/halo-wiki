@@ -12,11 +12,15 @@ While both mean and median frequencies do a good job of providing a quick estima
 
 ## Analysis
 
-Computing the median frequency involves 3 distinct steps, filtering, transforming, and averaging the signal.
+Computing the median frequency involves 4 distinct steps, filtering, slicing, transforming, and averaging the signal.
 
 ### Filtering
 
 Filtering involves rectifying, bandpass filtering and notch filtering details of which can be found back at the [[EMG]] page.
+
+### Slicing
+
+Some studies may skip this step depending on the study design and how much data is actually encapsulated in the data file.  For most studies there will be parts of the signal data file that are not important (waiting for the trial to start, in between tests when we are still recording for convenience), it is important to cut the file into sections that include the peaks of EMG activity that we care about.
 
 ### Transforming
 
