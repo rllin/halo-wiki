@@ -1,6 +1,8 @@
 [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
-**Fast Fourier Transform**
+**[Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform) (FFT)**
+**[Short-time Fourier transform](https://en.wikipedia.org/wiki/Short-time_Fourier_transform#Resolution_issues) (STFT)**
+**[Discrete-time Fourier Transform](https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform) (DFT or DTFT)**
 
 [FT vs PSD](http://www.dsprelated.com/showthread/comp.dsp/109448-1.php)
 
