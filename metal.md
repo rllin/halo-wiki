@@ -1,6 +1,7 @@
 [metal](https://en.wikipedia.org/wiki/Metal)
 
 ## Metal Working
+[[K&M Machine Fabricating, Inc]]
 [[Roneda Machine Works]]
 [Advantage Metal Products](http://advantagemetal.com/)
 
