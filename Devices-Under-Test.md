@@ -2,4 +2,4 @@
 
 ## Names, Abbreviations, and Misnomers
 * Acronym: DUT
-* variant forms: UUT (Unit Under Test), EUT (Equipment Under Test)
+* variant forms: Unit Under Test (UUT), Equipment Under Test (EUT)
