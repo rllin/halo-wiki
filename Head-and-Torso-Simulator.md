@@ -1,4 +1,4 @@
-[Head and Torso Stimulator] (https://en.wikipedia.org/wiki/Head-related_transfer_function)
+[Head and Torso Stimulator](https://en.wikipedia.org/wiki/Dummy_head_recording)
 
 ## Names, Abbreviations, and Misnomers
 * Acronym: HATS
