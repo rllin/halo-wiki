@@ -2,4 +2,4 @@
 
 >Our company sells a wide selection of standard bolts, nuts, washers and screws and we have increased our inventories in Hot Dip Galvanized Fasteners, Stainless Self-Drilling screws and “Unistrut” related products. The addition of strut products and accessories are in response to demands from the Solar and Commercial building trades.
 >Harrison & Bonini has also partnered with manufacturers of Tie Rods, Anchor Bolts, and Special Application Threaded Rods in various materials including Standard Steels, High Strength Alloys, and Stainless Steel. We also have extended our line to include: Dril-Flex Structural Self-Drilling Screws, Aggre-Gator, Bi-Metal concrete screws. Both of these products are US Made.
->Along with the vast range of fasteners, we have fantastic selection of Domestic made Drills, Taps, and Reamers. We also have speciality drills that are ideal for drilling Stainless Steel, and concrete."
+>Along with the vast range of fasteners, we have fantastic selection of Domestic made Drills, Taps, and Reamers. We also have speciality drills that are ideal for drilling Stainless Steel, and concrete.
