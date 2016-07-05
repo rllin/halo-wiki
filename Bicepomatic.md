@@ -60,4 +60,7 @@ Target 10:1, range from 7:1 - 15:1
  * Synchronous Belt - $90
  * Idler Bearing - $33
  * Collar (2) - $11
+
 * Projected
+ * Encoder
+ * Force Gauge
