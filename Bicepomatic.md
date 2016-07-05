@@ -60,7 +60,5 @@ Target 10:1, range from 7:1 - 15:1
  * Synchronous Belt - $90
  * Idler Bearing - $33
  * Collar (2) - $11
-
-* Projected
- * Encoder
- * Force Gauge
+ * Encoder - $614 ($564ea + $50 expedite)
+ * Load Cell - $150 [Transducer Techniques Economical Single Point Bending Beam Load Cell] (https://www.transducertechniques.com/esp-load-cell.aspx)
