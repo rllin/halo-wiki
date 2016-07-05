@@ -49,7 +49,7 @@ Target 10:1, range from 7:1 - 15:1
 * Dynamometer affixed to Curl Pad
 
 ## COST
-* Purchased
+* Purchased - ~$2608
  * Bicep Curl Bench - $375
  * Driver Motor (Servo) - $500
  * Power Supply - $199
