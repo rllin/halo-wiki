@@ -61,4 +61,4 @@ Target 10:1, range from 7:1 - 15:1
  * Idler Bearing - $33
  * Collar (2) - $11
  * Encoder - $614 ($564ea + $50 expedite)
- * Load Cell - $150 [Transducer Techniques Economical Single Point Bending Beam Load Cell] (https://www.transducertechniques.com/esp-load-cell.aspx)
+ * Load Cell - $150 [Transducer Techniques Economical Single Point Bending Beam Load Cell, 35kg](https://www.transducertechniques.com/esp-load-cell.aspx)
