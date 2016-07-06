@@ -49,7 +49,7 @@ Target 10:1, range from 7:1 - 15:1
 * Dynamometer affixed to Curl Pad
 
 ## COST
-* Purchased - ~$2608
+* Purchased - ~$2683
  * Bicep Curl Bench - $375
  * Driver Motor (Servo) - $500
  * Power Supply - $199
@@ -62,3 +62,4 @@ Target 10:1, range from 7:1 - 15:1
  * Collar (2) - $11
  * Encoder - $614 ($564ea + $50 expedite)
  * Load Cell - $150 [Transducer Techniques Economical Single Point Bending Beam Load Cell, 35kg](https://www.transducertechniques.com/esp-load-cell.aspx)
+ * Voltage Clamp - $75 Applied Motion RC-050
