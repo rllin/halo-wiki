@@ -1,4 +1,4 @@
-5-Time Tres Puntos Champion
+6-Time Tres Puntos Champion
 
 ## 2015
 10/07
@@ -7,3 +7,4 @@
 ## 2016
 4/01
 7/01
+7/08
