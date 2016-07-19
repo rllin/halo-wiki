@@ -1,4 +1,4 @@
-6-Time Tres Puntos Champion
+Patrick Wolber is 7-Time Tres Puntos Champion
 
 ## 2015
 10/07
@@ -8,3 +8,4 @@
 4/01
 7/01
 7/08
+7/15
