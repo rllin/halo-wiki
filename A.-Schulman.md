@@ -1,0 +1,8 @@
+(A. Schulman)[http://www.aschulman.com/Default.aspx?reset=2)\
+
+> A. Schulman is a leading international supplier of high-performance plastic compounds and resins, which are used as raw materials in a variety of markets. The Company's principal product lines consist of proprietary and custom-formulated engineered plastic compounds, color concentrates and additives that improve the appearance and performance of plastics in a number of specialized applications.
+Technology centers in North America and Europe are devoted to new product development and color research. The Company's manufacturing facilities have their own product testing and quality control laboratories to ensure timely delivery of high-quality products to A. Schulman's global customer base.
+The Company's customers span a wide range of markets such as packaging, mobility, building & construction, electronics & electrical, agriculture, personal care & hygiene, sports, leisure & home, custom services and others.
+Providing superior service and products is A. Schulman's focus for the injection, extrusion, blown-film extrusion, rotational and blow molding industries, as well as a new emphasis on the thermoforming industry.
+A. Schulman's expertise helps their customers develop some of the most widely used products on earth. We work hand in hand with our customers to help them realize their product/service expectations.
+Headquartered in Akron, Ohio, A. Schulman employs approximately 5,000 people and has over 58 manufacturing & support facilities globally. A. Schulman stock is quoted through the Nasdaq National Market System (Symbol: SHLM).
