@@ -1,0 +1,1 @@
+[Acceptable Quality Limit (AQL)](https://en.wikipedia.org/wiki/Acceptable_quality_limit)
